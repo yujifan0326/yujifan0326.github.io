@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Zijun Yao"
+title                    : "Jifan Yu"
 title_separator          : "-"
-name                     : &name "Zijun Yao"
-description              : &description "First Year Grad Student @ Knowledge Engineering Group, Tsinghua University"
-url                      : https://transirius.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+name                     : &name "Jifan Yu"
+description              : &description "4th Year Grad Student @ Knowledge Engineering Group, Tsinghua University"
+url                      : https://yujifan0326.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "TranSirius/TranSirius.github.io"
+repository               : "yujifan0326/yujifan0326.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -73,20 +73,20 @@ social:
 
 # Analytics
 analytics:
-  provider               :  "custom" # false (default), "google", "google-universal", "custom"
+  provider               :  "false" # false (default), "google", "google-universal", "custom"
   google:
     tracking_id          :  "G-8LXY1GR6PS"
 
 
 # Site Author
 author:
-  name             : "Zijun Yao (姚子俊)"
+  name             : "Jifan Yu (于济凡)"
   avatar           : "profile.jpg"
-  bio              : "First Year Grad Student @ KEG, Tsinghua University"
+  bio              : "4th Year Grad Student @ KEG, Tsinghua University"
   location         : "Beijing, China"
   employer         :
   pubmed           :
-  googlescholar    : "https://scholar.google.com/citations?hl=zh-CN&authuser=3&user=B4LmHSUAAAAJ"
+  googlescholar    : "https://scholar.google.com/citations?user=6cS9CVEAAAAJ"
   email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "TranSirius"
+  github           : "yujifan0326"
   google_plus      :
   keybase          :
   instagram        :
