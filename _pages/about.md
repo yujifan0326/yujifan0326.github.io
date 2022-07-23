@@ -8,13 +8,14 @@ redirect_from:
   - /about.html
 ---
 
-I am a first year master student at the [Department of Computer Science and Technology](http://www.cs.tsinghua.edu.cn/) in Tsinghua University, supervised by [Prof. Juanzi Li](http://keg.cs.tsinghua.edu.cn/persons/ljz/).
-I received my bachelor's degree in Computer Science and Technology from [Beijing University of Posts and Telecommunications](https://www.bupt.edu.cn/).
-I am currently working on Graph Neural Networks and Knowledge Engineering.
+I am a 4th year student at the [Department of Computer Science and Technology](http://www.cs.tsinghua.edu.cn/) in Tsinghua University, supervised by [Prof. Juanzi Li](http://keg.cs.tsinghua.edu.cn/persons/ljz/) and [Prof. Jie Tang](https://keg.cs.tsinghua.edu.cn/jietang/).
+I received my bachelor's degree in the college of Software Engineering from [Beihang University](https://www.buaa.edu.cn/).
+My research interests includes Knowledge Engineering and AI-driven Education, and I am currently working on their explorations with the assistance of pretrained models.
 
 What's New
 =====
 
+* We propose the paper list of AI-driven MOOCs as [Awesome MOOCs](https://github.com/THU-KEG/Awesome_MOOCs) !!!
 
 Publications & Preprints
 ======
