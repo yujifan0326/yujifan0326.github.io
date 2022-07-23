@@ -12,6 +12,11 @@ I am a 4th year student at the [Department of Computer Science and Technology](h
 I received my bachelor's degree in the college of Software Engineering from [Beihang University](https://www.buaa.edu.cn/).
 My research interests includes Knowledge Engineering and AI-driven Education, and I am currently working on their explorations with the assistance of pretrained models.
 
+Invited Talk
+=====
+
+* The Knowledgeable Intelligence in MOOCs. (AI Time 2020) [Sildes](https://cloud.tsinghua.edu.cn/f/6d97a85ca980409cab2f/)
+
 What's New ?
 =====
 
@@ -32,7 +37,84 @@ td, th {
 
 <table style="border: none!important;">
 	  <tbody><tr><td style="width:230px; height:110px" valign="middle" align="middle">
-	    <img src="http://transirius.github.io/images/pub/hosmel.png" width="250">
+	    <img src="http://yujifan0326.github.io/images/pub/xdai.png" width="250">
+	  </td>
+	  <td style="width:10px">
+	  </td>
+	  <td valign="middle">
+	    <div>
+	    	<b>
+        	XDAI: A Tuning‑free Framework for Exploiting the Pre‑trained Language Models in Knowledge Grounded Dialogue Generation
+        </b>
+        <br>
+		<i>
+        	KDD 2022
+        </i>
+        <br>
+	    	<b>Jifan Yu</b>, Xiaohan Zhang, Yifan Xu, Xuanyu Lei, Xinyu Guan, Jing Zhang, Lei Hou, Juanzi Li, Jie Tang
+        <br>
+        [<a href="https://github.com/THUDM/XDAI">Code</a>]
+        <br>
+			We propose XDAI, a knowledge-grounded dialogue system that is equipped with the prompt-aware tuning-free PLM exploitation and supported by the ready-to-use open-domain external knowledge resources plus the easy-to-change domain-specific mechanism.
+		</div>
+	</td></tr></tbody>
+</table>
+
+<table style="border: none!important;">
+	  <tbody><tr><td style="width:230px; height:110px" valign="middle" align="middle">
+	    <img src="http://yujifan0326.github.io/images/pub/program.png" width="250">
+	  </td>
+	  <td style="width:10px">
+	  </td>
+	  <td valign="middle">
+	    <div>
+	    	<b>
+        	Program Transfer for Answering Complex Questions over Knowledge Bases
+        </b>
+        <br>
+		<i>
+        	ACL 2022
+        </i>
+        <br>
+	    	Shulin Cao, Jiaxin Shi, Zijun Yao, Xin Lv, <b>Jifan Yu</b>, Lei Hou, Juanzi Li, Zhiyuan Liu, Jinghui Xiao
+        <br>
+		[<a href="https://aclanthology.org/2022.acl-long.559/">PDF</a>]
+        [<a href="https://github.com/THU-KEG/ProgramTransfer">Code</a>]
+        <br>
+			In this paper, we propose the approach of program transfer, which aims to leverage the valuable program annotations on the rich-resourced KBs as external supervision signals to aid program induction for the low-resourced KBs that lack program annotations.
+		</div>
+	</td></tr></tbody>
+</table>
+
+<table style="border: none!important;">
+	  <tbody><tr><td style="width:230px; height:110px" valign="middle" align="middle">
+	    <img src="http://yujifan0326.github.io/images/pub/subgraph.png" width="250">
+	  </td>
+	  <td style="width:10px">
+	  </td>
+	  <td valign="middle">
+	    <div>
+	    	<b>
+        	Subgraph Retrieval Enhanced Model for Multi-hop Knowledge Base Question Answering
+        </b>
+        <br>
+		<i>
+        	ACL 2022
+        </i>
+        <br>
+	    	Jing Zhang, Xiaokang Zhang, <b>Jifan Yu</b>, Jian Tang, Jie Tang, Cuiping Li, Hong Chen
+        <br>
+		[<a href="https://aclanthology.org/2022.acl-long.396/">PDF</a>]
+        [<a href="https://github.com/RUCKBReasoning/SubgraphRetrievalKBQA">Code</a>]
+        <br>
+			This paper proposes a trainable subgraph retriever (SR) decoupled from the subsequent reasoning process, which enables a plug-and-play framework to enhance any subgraph-oriented KBQA model. 
+		</div>
+	</td></tr></tbody>
+</table>
+
+<table style="border: none!important;">
+	  <tbody><tr><td style="width:230px; height:110px" valign="middle" align="middle">
+	    <img src="http://yujifan0326.github.io/images/pub/hosmel.png" width="250">
 	  </td>
 	  <td style="width:10px">
 	  </td>
@@ -56,6 +138,30 @@ td, th {
 	</td></tr></tbody>
 </table>
 
+<table style="border: none!important;">
+	  <tbody><tr><td style="width:230px; height:110px" valign="middle" align="middle">
+	    <img src="http://yujifan0326.github.io/images/pub/iclea.png" width="250">
+	  </td>
+	  <td style="width:10px">
+	  </td>
+	  <td valign="middle">
+	    <div>
+	    	<b>
+        	ICLEA: Interactive Contrastive Learning for Self-supervised Entity Alignment
+        </b>
+        <br>
+		<i>
+        	Arxiv 2022
+        </i>
+        <br>
+	    	Kaisheng Zeng, Zhenhao Dong, Lei Hou, Yixin Cao, Minghao Hu, <b>Jifan Yu</b>, Xin Lv, Juanzi Li, Ling Feng
+        <br>
+		[<a href="https://arxiv.org/pdf/2201.06225">PDF</a>]
+        <br>
+			In this paper, we propose an interactive contrastive learning model for self-supervised EA. The model encodes not only structures and semantics of entities (including entity name, entity description, and entity neighborhood), but also conducts cross-KG contrastive learning by building pseudo-aligned entity pairs.
+		</div>
+	</td></tr></tbody>
+</table>
 
 2021
 -----
