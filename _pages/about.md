@@ -32,27 +32,26 @@ td, th {
 
 <table style="border: none!important;">
 	  <tbody><tr><td style="width:230px; height:110px" valign="middle" align="middle">
-	    <img src="http://transirius.github.io/images/pub/kat.png" width="250">
+	    <img src="http://transirius.github.io/images/pub/hosmel.png" width="250">
 	  </td>
 	  <td style="width:10px">
 	  </td>
 	  <td valign="middle">
 	    <div>
 	    	<b>
-        	Interpretable and Low-Resource Entity Matching via Decoupling Feature Learning from Decision Making
+        	HOSMEL: A Hot-Swappable Modularized Entity Linking Toolkit for Chinese
         </b>
         <br>
 		<i>
-        	ACL 2021
+        	ACL 2022
         </i>
         <br>
-	    	Zijun Yao, Chengjiang Li, Tiansi Dong, Xin Lv, <b>Jifan Yu</b>, Lei Hou, Juanzi Li, Yichi Zhang and Zelin Dai
+	    	Daniel Zhang-Li, Jing Zhang, <b>Jifan Yu</b>, Xiaokang Zhang, Peng Zhang, Jie Tang, Juanzi Li
         <br>
-		[<a href="https://arxiv.org/abs/2106.04174">PDF</a>]
-        [<a href="https://github.com/THU-KEG/HIF-KAT">Code</a>]
-		[<a href="http://transirius.github.io/files/kat.pdf">Slide</a>]
+		[<a href="https://aclanthology.org/2022.acl-demo.21/">PDF</a>]
+        [<a href="https://github.com/THUDM/HOSMEL">Code</a>]
         <br>
-			We propose to decouple the representation learning stage and the decision making stage to fully utilize unlabeled data for entity matching task.
+			We investigate the usage of entity linking (EL) in downstream tasks and present the first modularized EL toolkit for easy task adaptation. Different from the existing EL methods that deal with all the features simultaneously, we modularize the whole model into separate parts with each feature.
 		</div>
 	</td></tr></tbody>
 </table>
@@ -111,6 +110,32 @@ td, th {
 		[<a href="http://transirius.github.io/files/kat.pdf">Slide</a>]
         <br>
 			We propose to decouple the representation learning stage and the decision making stage to fully utilize unlabeled data for entity matching task.
+		</div>
+	</td></tr></tbody>
+</table>
+
+<table style="border: none!important;">
+	  <tbody><tr><td style="width:230px; height:110px" valign="middle" align="middle">
+	    <img src="http://yujifan0326.github.io/images/pub/crowd.png" width="250">
+	  </td>
+	  <td style="width:10px">
+	  </td>
+	  <td valign="middle">
+	    <div>
+	    	<b>
+        	MOOCCubeX: A Large Knowledge-centered Repository for Adaptive Learning in MOOCs
+        </b>
+        <br>
+		<i>
+        	WISE 2021
+        </i>
+        <br>
+	    	Yuquan Wang, Yanpeng Wang, Yiming Mao, <b>Jifan Yu</b>, Kaisheng Zeng, Lei Hou, Juanzi Li, Jie Tang
+        <br>
+		[<a href="https://link.springer.com/chapter/10.1007/978-3-030-90888-1_2">PDF</a>]
+        [<a href="https://github.com/THU-KEG/ECTE">Code</a>]
+        <br>
+			In this work, we propose a unified crowdsourcing framework to mitigate both challenges. It leverages the skill locality of workers with a Graph Gaussian Process model.
 		</div>
 	</td></tr></tbody>
 </table>
