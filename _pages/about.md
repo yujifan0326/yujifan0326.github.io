@@ -209,7 +209,7 @@ td, th {
         	ACL 2021
         </i>
         <br>
-	    	<b>Zijun Yao</b>, Chengjiang Li, Tiansi Dong, Xin Lv, Jifan Yu, Lei Hou, Juanzi Li, Yichi Zhang and Zelin Dai
+	    	Zijun Yao, Chengjiang Li, Tiansi Dong, Xin Lv, <b>Jifan Yu</b>, Lei Hou, Juanzi Li, Yichi Zhang and Zelin Dai
         <br>
 		[<a href="https://arxiv.org/abs/2106.04174">PDF</a>]
         [<a href="https://github.com/THU-KEG/HIF-KAT">Code</a>]
