@@ -20,6 +20,7 @@ Invited Talk
 What's New ?
 =====
 
+* Our two works for Entity Alignment and Event Relation Detection have been accepted by CIKM 2022 !!
 * We propose the paper list of AI-driven MOOCs as [Awesome MOOCs](https://github.com/THU-KEG/Awesome_MOOCs) !! 
 * Our work on Knowledge-grounded dialogue (XDAI) has been accepted by KDD 2022 !!
 
