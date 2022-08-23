@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a 4th year student at the [Department of Computer Science and Technology](http://www.cs.tsinghua.edu.cn/) in Tsinghua University, supervised by [Prof. Juanzi Li](http://keg.cs.tsinghua.edu.cn/persons/ljz/) and [Prof. Jie Tang](https://keg.cs.tsinghua.edu.cn/jietang/).
+I am a 1th year Ph.D student at the [Department of Computer Science and Technology](http://www.cs.tsinghua.edu.cn/) in Tsinghua University, supervised by [Prof. Juanzi Li](http://keg.cs.tsinghua.edu.cn/persons/ljz/) and [Prof. Jie Tang](https://keg.cs.tsinghua.edu.cn/jietang/).
 I received my bachelor's degree in the college of Software Engineering from [Beihang University](https://www.buaa.edu.cn/).
 My research interests includes Knowledge Engineering and AI-driven Education, and I am currently working on their explorations with the assistance of pretrained models.
 
