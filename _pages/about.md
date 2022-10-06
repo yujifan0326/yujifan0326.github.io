@@ -145,7 +145,7 @@ td, th {
 
 <table style="border: none!important;">
 	  <tbody><tr><td style="width:230px; height:110px" valign="middle" align="middle">
-	    <img src="http://yujifan0326.github.io/images/pub/storyline.png" width="250">
+	    <img src="http://yujifan0326.github.io/images/pub/UPER.png" width="250">
 	  </td>
 	  <td style="width:10px">
 	  </td>
@@ -213,6 +213,31 @@ td, th {
 		[<a href="https://arxiv.org/pdf/2201.06225">PDF</a>]
         <br>
 			In this paper, we propose an interactive contrastive learning model for self-supervised EA. The model encodes not only structures and semantics of entities (including entity name, entity description, and entity neighborhood), but also conducts cross-KG contrastive learning by building pseudo-aligned entity pairs.
+		</div>
+	</td></tr></tbody>
+</table>
+
+<table style="border: none!important;">
+	  <tbody><tr><td style="width:230px; height:110px" valign="middle" align="middle">
+	    <img src="http://yujifan0326.github.io/images/pub/pretrain.png" width="250">
+	  </td>
+	  <td style="width:10px">
+	  </td>
+	  <td valign="middle">
+	    <div>
+	    	<b>
+        	Towards a General Pre-training Framework for Adaptive Learning in MOOCs
+        </b>
+        <br>
+		<i>
+        	Arxiv
+        </i>
+        <br>
+	    	Qingyang Zhong*, <b>Jifan Yu*</b>, Zheyuan Zhang, Yiming Mao, Yuquan Wang, Yankai Lin, Lei Hou, Juanzi Li, Jie Tang
+        <br>
+		[<a href="https://arxiv.org/pdf/2208.04708.pdf">PDF</a>]
+        <br>
+			To realize the idea of general adaptive systems proposed in pedagogical theory, with the emerging pre-training techniques in NLP, we try to conduct a practical exploration on applying pre-training to adaptive learning, to propose a unified framework based on data observation and learning style analysis, properly leveraging heterogeneous learning elements.
 		</div>
 	</td></tr></tbody>
 </table>
