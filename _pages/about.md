@@ -177,7 +177,7 @@ td, th {
 	  <td valign="middle">
 	    <div>
 	    	<b>
-        	MOOCCubeX: A Large Knowledge-centered Repository for Adaptive Learning in MOOCs <font color=red>Best Resource Paper Nomination</font>
+        	MOOCCubeX: A Large Knowledge-centered Repository for Adaptive Learning in MOOCs <font color=red><i>(Best Resource Paper Nomination)</i></font>
         </b>
         <br>
 		<i>
