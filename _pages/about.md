@@ -12,10 +12,12 @@ I am a 2th year Ph.D student at the [Department of Computer Science and Technolo
 I received my bachelor's degree in the college of Software Engineering from [Beihang University](https://www.buaa.edu.cn/).
 My research interests includes Knowledge Engineering and AI-driven Education, and I am currently working on their explorations with the assistance of pretrained models.
 
-Invited Talk
+Invited Talk & Award
 =====
 
+* <b><font color=red>CIKM2021 Best Resource Paper Nomination !!</font></b>
 * The Knowledgeable Intelligence in MOOCs. (AI Time 2020) [Sildes](https://cloud.tsinghua.edu.cn/f/6d97a85ca980409cab2f/)
+
 
 What's New ?
 =====
@@ -88,6 +90,7 @@ td, th {
 	</td></tr></tbody>
 </table>
 
+
 <table style="border: none!important;">
 	  <tbody><tr><td style="width:230px; height:110px" valign="middle" align="middle">
 	    <img src="http://yujifan0326.github.io/images/pub/subgraph.png" width="250">
@@ -142,6 +145,55 @@ td, th {
 
 <table style="border: none!important;">
 	  <tbody><tr><td style="width:230px; height:110px" valign="middle" align="middle">
+	    <img src="http://yujifan0326.github.io/images/pub/storyline.png" width="250">
+	  </td>
+	  <td style="width:10px">
+	  </td>
+	  <td valign="middle">
+	    <div>
+	    	<b>
+        	UPER: Boosting Multi-Document Summarization with an Unsupervised Prompt-based Extractor
+        </b>
+        <br>
+		<i>
+        	COLING 2022
+        </i>
+        <br>
+	    	Shangqing Tu, <b>Jifan Yu</b>, Fangwei Zhu, Juanzi Li, Lei Hou and Jian-Yun Nie
+        <br>
+		[<a href="https://github.com/THU-KEG/UPER">code</a>]
+        <br>
+			To extract documents effectively, we construct prompting templates that invoke the underlying knowledge in Pre-trained Language Model (PLM) to calculate the document and keyword’s perplexity, which can assess the document’s semantic salience. Our unsupervised approach can be applied as a plug-in to boost other metrics for evaluating a document’s salience, thus improving the subsequent abstract generation.
+		</div>
+	</td></tr></tbody>
+</table>
+
+<table style="border: none!important;">
+	  <tbody><tr><td style="width:230px; height:110px" valign="middle" align="middle">
+	    <img src="http://yujifan0326.github.io/images/pub/storyline.png" width="250">
+	  </td>
+	  <td style="width:10px">
+	  </td>
+	  <td valign="middle">
+	    <div>
+	    	<b>
+        	CStory: A Chinese Large-scale News Storyline Dataset
+        </b>
+        <br>
+		<i>
+        	CIKM 2022
+        </i>
+        <br>
+	    	Kaijie Shi, Xiaozhi Wang, <b>Jifan Yu</b>, Lei Hou, Juanzi Li, Jingtong Wu, Dingyu Yong, Jinghui Xiao, Qun Liu
+        <br>
+        <br>
+			In this paper, we construct CStory, a large-scale Chinese news storyline dataset, which contains 11, 978 news articles, 112, 549 manually labeled storyline relation pairs, and 49, 832 evidence sentences for annotation judgment. We conduct extensive experiments on CStory using various algorithms and find that constructing news storylines is challenging even for pre-trained language models.
+		</div>
+	</td></tr></tbody>
+</table>
+
+<table style="border: none!important;">
+	  <tbody><tr><td style="width:230px; height:110px" valign="middle" align="middle">
 	    <img src="http://yujifan0326.github.io/images/pub/iclea.png" width="250">
 	  </td>
 	  <td style="width:10px">
@@ -153,7 +205,7 @@ td, th {
         </b>
         <br>
 		<i>
-        	Arxiv 2022
+        	CIKM 2022
         </i>
         <br>
 	    	Kaisheng Zeng, Zhenhao Dong, Lei Hou, Yixin Cao, Minghao Hu, <b>Jifan Yu</b>, Xin Lv, Juanzi Li, Ling Feng
