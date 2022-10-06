@@ -186,6 +186,7 @@ td, th {
         <br>
 	    	Kaijie Shi, Xiaozhi Wang, <b>Jifan Yu</b>, Lei Hou, Juanzi Li, Jingtong Wu, Dingyu Yong, Jinghui Xiao, Qun Liu
         <br>
+		[]
         <br>
 			In this paper, we construct CStory, a large-scale Chinese news storyline dataset, which contains 11, 978 news articles, 112, 549 manually labeled storyline relation pairs, and 49, 832 evidence sentences for annotation judgment. We conduct extensive experiments on CStory using various algorithms and find that constructing news storylines is challenging even for pre-trained language models.
 		</div>
