@@ -8,14 +8,14 @@ redirect_from:
   - /about.html
 ---
 
-I am a 2th year Ph.D student at the [Department of Computer Science and Technology](http://www.cs.tsinghua.edu.cn/) in Tsinghua University, supervised by [Prof. Juanzi Li](http://keg.cs.tsinghua.edu.cn/persons/ljz/) and [Prof. Jie Tang](https://keg.cs.tsinghua.edu.cn/jietang/).
+I am a 4th year Ph.D student at the [Department of Computer Science and Technology](http://www.cs.tsinghua.edu.cn/) in Tsinghua University, supervised by [Prof. Juanzi Li](http://keg.cs.tsinghua.edu.cn/persons/ljz/) and [Prof. Jie Tang](https://keg.cs.tsinghua.edu.cn/jietang/).
 I received my bachelor's degree in the college of Software Engineering from [Beihang University](https://www.buaa.edu.cn/).
 My research interests includes Knowledge Engineering and AI-driven Education, and I am currently working on their explorations with the assistance of pretrained models.
 
 Invited Talk & Award
 =====
 
-* <b><font color=red>CIKM2021 Best Resource Paper Nomination !!</font></b>
+* MOOCCubeX is presented as <b>CIKM2021 Best Resource Paper Nomination Award</b>
 * The Knowledgeable Intelligence in MOOCs. (AI Time 2020) [Sildes](https://cloud.tsinghua.edu.cn/f/6d97a85ca980409cab2f/)
 
 
@@ -186,7 +186,7 @@ td, th {
         <br>
 	    	Kaijie Shi, Xiaozhi Wang, <b>Jifan Yu</b>, Lei Hou, Juanzi Li, Jingtong Wu, Dingyu Yong, Jinghui Xiao, Qun Liu
         <br>
-		[]
+		[<a href="https://github.com/THU-KEG/CStory">code</a>]
         <br>
 			In this paper, we construct CStory, a large-scale Chinese news storyline dataset, which contains 11, 978 news articles, 112, 549 manually labeled storyline relation pairs, and 49, 832 evidence sentences for annotation judgment. We conduct extensive experiments on CStory using various algorithms and find that constructing news storylines is challenging even for pre-trained language models.
 		</div>
