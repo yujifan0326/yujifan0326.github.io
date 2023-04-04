@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a 3rd year Ph.D student at the [Department of Computer Science and Technology](http://www.cs.tsinghua.edu.cn/) in Tsinghua University, supervised by [Prof. Juanzi Li](http://keg.cs.tsinghua.edu.cn/persons/ljz/) and [Prof. Jie Tang](https://keg.cs.tsinghua.edu.cn/jietang/).
+I am a 4th year Ph.D student at the [Department of Computer Science and Technology](http://www.cs.tsinghua.edu.cn/) in Tsinghua University, supervised by [Prof. Juanzi Li](http://keg.cs.tsinghua.edu.cn/persons/ljz/) and [Prof. Jie Tang](https://keg.cs.tsinghua.edu.cn/jietang/).
 I received my bachelor's degree in the college of Software Engineering from [Beihang University](https://www.buaa.edu.cn/).
 My research interests includes Knowledge Engineering and AI-driven Education, and I am currently working on their explorations with the assistance of pretrained models.
 
@@ -22,13 +22,70 @@ Invited Talk & Award
 What's New ?
 =====
 
-* Our work of Abstractive Summarization has been accepted by Coling2022 !!
-* Our two works for Entity Alignment and Event Relation Detection have been accepted by CIKM 2022 !!
-* We propose the paper list of AI-driven MOOCs as [Awesome MOOCs](https://github.com/THU-KEG/Awesome_MOOCs) !! 
-* Our work on Knowledge-grounded dialogue (XDAI) has been accepted by KDD 2022 !!
+* Our work of MOOC Cognitive Diagnosis dataset MOOC-Radar has been accepted by SIGIR 2023 !!
+* We propose the paper list of ChatGPT Detection as [EvaluationPapers4ChatGPT](https://github.com/THU-KEG/EvaluationPapers4ChatGPT) !! 
 
 Publications & Preprints
 ======
+
+2023
+-----
+
+<style>
+td, th {
+   border: none!important;
+}
+</style>
+
+<table style="border: none!important;">
+	  <tbody><tr><td style="width:230px; height:110px" valign="middle" align="middle">
+	    <img src="http://yujifan0326.github.io/images/pub/moocradar.png" width="250">
+	  </td>
+	  <td style="width:10px">
+	  </td>
+	  <td valign="middle">
+	    <div>
+	    	<b>
+        	MoocRadar: A Fine-grained and Multi-aspect Knowledge Repository for Improving Cognitive Student Modeling in MOOCs
+        </b>
+        <br>
+		<i>
+        	SIGIR 2023
+        </i>
+        <br>
+	    	<b>Jifan Yu</b>, Mengying Lu, Qingyang Zhong, Zijun Yao, Shangqing Tu, Zhengshan Liao, Xiaoya Li, Manli Li, Lei Hou, Hai-Tao Zheng, Juanzi Li, Jie Tang
+        <br>
+        [<a href="https://aclanthology.org/2022.acl-long.396/">PDF</a>]
+        <br>
+			In this paper, we present MoocRadar, a fine-grained, multi-aspect knowledge repository consisting of 2,513 exercise questions, 5,600 knowledge concepts, and over 12 million behavioral records. Specifically, we propose a framework to guarantee a high-quality and comprehensive annotation of fine-grained concepts and cognitive labels.
+		</div>
+	</td></tr></tbody>
+</table>
+
+<table style="border: none!important;">
+	  <tbody><tr><td style="width:230px; height:110px" valign="middle" align="middle">
+	    <img src="http://yujifan0326.github.io/images/pub/moocradar.png" width="250">
+	  </td>
+	  <td style="width:10px">
+	  </td>
+	  <td valign="middle">
+	    <div>
+	    	<b>
+        	GOAL: A Challenging Knowledge-grounded Video Captioning Benchmark for Real-time Soccer Commentary Generation
+        </b>
+        <br>
+		<i>
+        	Arxiv
+        </i>
+        <br>
+	    	Ji Qi*, <b>Jifan Yu</b>*, Teng Tu, Kunyu Gao, Yifan Xu, Xinyu Guan, Xiaozhi Wang, Yuxiao Dong, Bin Xu, Lei Hou, Juanzi Li, Jie Tang, Weidong Guo, Hui Liu, Yu Xu
+        <br>
+        [<a href="https://arxiv.org/pdf/2303.14655v1.pdf">Dataset & Code</a>]
+        <br>
+			In this paper, we present GOAL, a benchmark of over 8.9k soccer video clips, 22k sentences, and 42k knowledge triples for proposing a challenging new task setting as Knowledge-grounded Video Captioning (KGVC).
+		</div>
+	</td></tr></tbody>
+</table>
 
 2022
 -----
