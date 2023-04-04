@@ -1,6 +1,6 @@
 ---
 title: 'Bridging the Data and “ChatGPT” with Knowledge: Empirical Insights from Building Knowledge-driven MOOCs'
-date: 2023-04-10
+date: 2023-04-03
 permalink: /posts/2022/Briding-Knowledge
 tags:
   - ChatGPT
@@ -12,4 +12,4 @@ In recent times, the GPT series of models, represented by ChatGPT, have demonstr
 
 This talk is invited by Renmin Univerisity.
 
-* The slides of this talk can be download here [Link]https://cloud.tsinghua.edu.cn/f/f289c22c222f4c63955a/?dl=1).
+* The slides of this talk can be download here: [Link](https://cloud.tsinghua.edu.cn/f/f289c22c222f4c63955a/?dl=1).
