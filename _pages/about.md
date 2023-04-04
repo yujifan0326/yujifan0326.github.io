@@ -64,7 +64,7 @@ td, th {
 
 <table style="border: none!important;">
 	  <tbody><tr><td style="width:230px; height:110px" valign="middle" align="middle">
-	    <img src="http://yujifan0326.github.io/images/pub/moocradar.png" width="250">
+	    <img src="http://yujifan0326.github.io/images/pub/goal.png" width="250">
 	  </td>
 	  <td style="width:10px">
 	  </td>
