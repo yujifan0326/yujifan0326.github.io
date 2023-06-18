@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Jifan Yu (于济凡)"
   avatar           : "profile.jpg"
-  bio              : "4th Year Grad Student @ KEG, Tsinghua University"
+  bio              : "5th Year Grad Student @ KEG, Tsinghua University"
   location         : "Beijing, China"
   employer         :
   pubmed           :
   googlescholar    : "https://scholar.google.com/citations?user=6cS9CVEAAAAJ"
-  email            :
+  email            : "yujifan0326@163.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -109,7 +109,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : 
+  twitter          : "yujifan_0326"
   vine             :
   weibo            :
   xing             :
