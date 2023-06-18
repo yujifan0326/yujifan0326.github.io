@@ -39,6 +39,33 @@ td, th {
 
 <table style="border: none!important;">
 	  <tbody><tr><td style="width:230px; height:110px" valign="middle" align="middle">
+	    <img src="http://yujifan0326.github.io/images/pub/kola.png" width="250">
+	  </td>
+	  <td style="width:10px">
+	  </td>
+	  <td valign="middle">
+	    <div>
+	    	<b>
+        	KoLA: Carefully Benchmarking World Knowledge of Large Language Models
+        </b>
+        <br>
+		<i>
+        	Arxiv
+        </i>
+        <br>
+	    	<b>Jifan Yu</b>*, Xiaozhi Wang*, Shangqing Tu, Shulin Cao, Daniel Zhang-Li, Xin Lv, Hao Peng, Zijun Yao, Xiaohan Zhang, Hanming Li, Chunyang Li, Zheyuan Zhang, Yushi Bai, Yantao Liu, Amy Xin, Nianyi Lin, Kaifeng Yun, Linlu Gong, Jianhui Chen, Zhili Wu, Yunjia Qi, Weikai Li, Yong Guan, Kaisheng Zeng, Ji Qi, Hailong Jin, Jinxi Liu, Yu Gu, Yuan Yao, Ning Ding, Lei Hou, Zhiyuan Liu, Bin Xu, Jie Tang, Juanzi Li
+        <br>
+        [<a href="https://kola.xlore.cn/">Platform</a>]
+		[<a href="https://arxiv.org/pdf/2306.09296.pdf">PDF</a>]
+		[<a href="https://github.com/THU-KEG/KoLA">Code</a>]
+        <br>
+			We construct a Knowledge-oriented LLM Assessment benchmark (KoLA), in which we carefully design three crucial factors: (1) Ability Modeling (2) Evolving Data, (3) Standardized Evaluation. We evaluate 21 open-source and commercial LLMs and obtain some intriguing findings. 
+		</div>
+	</td></tr></tbody>
+</table>
+
+<table style="border: none!important;">
+	  <tbody><tr><td style="width:230px; height:110px" valign="middle" align="middle">
 	    <img src="http://yujifan0326.github.io/images/pub/moocradar.png" width="250">
 	  </td>
 	  <td style="width:10px">
@@ -55,9 +82,84 @@ td, th {
         <br>
 	    	<b>Jifan Yu</b>, Mengying Lu, Qingyang Zhong, Zijun Yao, Shangqing Tu, Zhengshan Liao, Xiaoya Li, Manli Li, Lei Hou, Hai-Tao Zheng, Juanzi Li, Jie Tang
         <br>
-        [<a href="https://aclanthology.org/2022.acl-long.396/">PDF</a>]
+        [<a href="https://arxiv.org/pdf/2304.02205.pdf">PDF</a>]
         <br>
 			In this paper, we present MoocRadar, a fine-grained, multi-aspect knowledge repository consisting of 2,513 exercise questions, 5,600 knowledge concepts, and over 12 million behavioral records. Specifically, we propose a framework to guarantee a high-quality and comprehensive annotation of fine-grained concepts and cognitive labels.
+		</div>
+	</td></tr></tbody>
+</table>
+
+<table style="border: none!important;">
+	  <tbody><tr><td style="width:230px; height:110px" valign="middle" align="middle">
+	    <img src="http://yujifan0326.github.io/images/pub/mooc-ner.png" width="250">
+	  </td>
+	  <td style="width:10px">
+	  </td>
+	  <td valign="middle">
+	    <div>
+	    	<b>
+        	Distantly Supervised Course Concept Extraction in MOOCs with Academic Discipline
+        </b>
+        <br>
+		<i>
+        	ACL 2023
+        </i>
+        <br>
+	    	Mengying Lu, Yuquan Wang, <b>Jifan Yu</b> (Corresponding Author), Yexing Du, Lei Hou, Juanzi Li
+        <br>
+        [<a href="https://github.com/THU-KEG/MOOC-NER">Dataset & Code</a>]
+        <br>
+			We present a novel three-stage framework DS-MOCE, which leverages the power of pre-trained language models explicitly and implicitly and employs discipline-embedding models with a self-train strategy based on label generation refinement across different domains.
+		</div>
+	</td></tr></tbody>
+</table>
+
+<table style="border: none!important;">
+	  <tbody><tr><td style="width:230px; height:110px" valign="middle" align="middle">
+	    <img src="http://yujifan0326.github.io/images/pub/glm-dialog.png" width="250">
+	  </td>
+	  <td style="width:10px">
+	  </td>
+	  <td valign="middle">
+	    <div>
+	    	<b>
+        	GLM-Dialog: Noise-tolerant Pre-training for Knowledge-grounded Dialogue Generation
+        </b>
+        <br>
+		<i>
+        	KDD 2023
+        </i>
+        <br>
+	    	Jing Zhang*, Xiaokang Zhang*, Daniel Zhang-Li*, <b>Jifan Yu</b>*, Zijun Yao, Zeyao Ma, Yiqi Xu, Haohua Wang, Xiaohan Zhang, Nianyi Lin, Sunrui Lu, Juanzi Li, Jie Tang
+        <br>
+        [<a href="https://github.com/RUCKBReasoning/GLM-Dialog">Dataset & Code</a>]
+		[<a href="https://arxiv.org/pdf/2302.14401.pdf">PDF</a>]
+        <br>
+			We present GLM-Dialog, a large-scale language model (LLM) with 10B parameters capable of knowledge-grounded conversation in Chinese using a search engine to access the Internet knowledge. GLM-Dialog offers a series of applicable techniques for exploiting various external knowledge including both helpful and noisy knowledge, enabling the creation of robust knowledge-grounded dialogue LLMs with limited proper datasets. 
+		</div>
+	</td></tr></tbody>
+</table>
+
+<table style="border: none!important;">
+	  <tbody><tr><td style="width:230px; height:110px" valign="middle" align="middle">
+	    <img src="http://yujifan0326.github.io/images/pub/learn_to_not_link.png" width="250">
+	  </td>
+	  <td style="width:10px">
+	  </td>
+	  <td valign="middle">
+	    <div>
+	    	<b>
+        	Learn to Not Link: Exploring NIL Prediction in Entity Linking
+        </b>
+        <br>
+		<i>
+        	Findings of ACL 2023
+        </i>
+        <br>
+	    	Fangwei Zhu, <b>Jifan Yu</b>*, Hailong Jin, Lei Hou, Juanzi Li, Zhifang Sui
+        <br>
+        <br>
+			We propose an entity linking dataset NEL focuses on the NIL prediction problem. NEL takes entities that share an alias with other entities as seeds, collects relevant mention context in the Wikipedia corpus, and ensures the presence of mentions linking to NIL by human annotation and entity masking.
 		</div>
 	</td></tr></tbody>
 </table>
@@ -78,7 +180,7 @@ td, th {
         	Arxiv
         </i>
         <br>
-	    	Ji Qi*, <b>Jifan Yu</b>*, Teng Tu, Kunyu Gao, Yifan Xu, Xinyu Guan, Xiaozhi Wang, Yuxiao Dong, Bin Xu, Lei Hou, Juanzi Li, Jie Tang, Weidong Guo, Hui Liu, Yu Xu
+	    	Ji Qi*, <b>Jifan Yu</b>*, Teng Tu, Kunyu Gao, Yifan Xu, Xinyu Guan, Xiaozhi Wang, Bin Xu, Lei Hou, Juanzi Li, Jie Tang
         <br>
         [<a href="https://arxiv.org/pdf/2303.14655v1.pdf">Dataset & Code</a>]
         <br>
