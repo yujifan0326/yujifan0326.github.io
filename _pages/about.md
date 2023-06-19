@@ -84,6 +84,7 @@ td, th {
 	    	<b>Jifan Yu</b>, Mengying Lu, Qingyang Zhong, Zijun Yao, Shangqing Tu, Zhengshan Liao, Xiaoya Li, Manli Li, Lei Hou, Hai-Tao Zheng, Juanzi Li, Jie Tang
         <br>
         [<a href="https://arxiv.org/pdf/2304.02205.pdf">PDF</a>]
+		[<a href="https://github.com/THU-KEG/MOOC-Radar">Repository</a>]
         <br>
 			In this paper, we present MoocRadar, a fine-grained, multi-aspect knowledge repository consisting of 2,513 exercise questions, 5,600 knowledge concepts, and over 12 million behavioral records. Specifically, we propose a framework to guarantee a high-quality and comprehensive annotation of fine-grained concepts and cognitive labels.
 		</div>
@@ -185,7 +186,8 @@ td, th {
         <br>
 	    	Ji Qi*, <b>Jifan Yu</b>*, Teng Tu, Kunyu Gao, Yifan Xu, Xinyu Guan, Xiaozhi Wang, Bin Xu, Lei Hou, Juanzi Li, Jie Tang
         <br>
-        [<a href="https://arxiv.org/pdf/2303.14655v1.pdf">Dataset & Code</a>]
+        [<a href="https://github.com/THU-KEG/goal">Paper</a>]
+		[<a href="https://arxiv.org/pdf/2303.14655v1.pdf">Paper</a>]
         <br>
 			In this paper, we present GOAL, a benchmark of over 8.9k soccer video clips, 22k sentences, and 42k knowledge triples for proposing a challenging new task setting as Knowledge-grounded Video Captioning (KGVC).
 		</div>
