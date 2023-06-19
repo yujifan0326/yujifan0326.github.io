@@ -157,8 +157,10 @@ td, th {
         	Findings of ACL 2023
         </i>
         <br>
-	    	Fangwei Zhu, <b>Jifan Yu</b>*, Hailong Jin, Lei Hou, Juanzi Li, Zhifang Sui
+	    	Fangwei Zhu, <b>Jifan Yu</b>*, Hailong Jin, Juanzi Li, Lei Hou, Zhifang Sui
         <br>
+		[<a href="https://github.com/solitaryzero/NIL_EL">Dataset & Code</a>]
+		[<a href="https://arxiv.org/pdf/2305.15725.pdf">PDF</a>]
         <br>
 			We propose an entity linking dataset NEL focuses on the NIL prediction problem. NEL takes entities that share an alias with other entities as seeds, collects relevant mention context in the Wikipedia corpus, and ensures the presence of mentions linking to NIL by human annotation and entity masking.
 		</div>
