@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am an Assistant Researcher at the [Institute of Education](https://www.ioe.tsinghua.edu.cn/) in Tsinghua University. I got my Ph.D degree in the [Knowledge Engineering Group (KEG)](https://keg.cs.tsinghua.edu.cn/), supervised by [Prof. Juanzi Li](http://keg.cs.tsinghua.edu.cn/persons/ljz/) and [Prof. Jie Tang](https://keg.cs.tsinghua.edu.cn/jietang/).
+I am an Assistant Researcher at the [Institute of Education](https://www.ioe.tsinghua.edu.cn/) in Tsinghua University. I got my Ph.D degree in the [Knowledge Engineering Group (KEG)](https://keg.cs.tsinghua.edu.cn/), Tsinghua University, supervised by [Prof. Juanzi Li](http://keg.cs.tsinghua.edu.cn/persons/ljz/) and [Prof. Jie Tang](https://keg.cs.tsinghua.edu.cn/jietang/).
 My research interests focus on Knowledge-driven AI in Education, especially Educational Large Models and Agents. I am looking for self-motivated, high-caliber collaborators, research assistants, and candidate master's students. 
 
 Some of our publicly available resources for AI-Edu can be found here: 
@@ -16,20 +16,18 @@ Some of our publicly available resources for AI-Edu can be found here:
 * [AI-driven MOOC](https://github.com/THU-KEG/Awesome_MOOCs).
 * [LLM Evaluation](https://github.com/THU-KEG/EvaluationPapers4ChatGPT).
 
-Invited Talk & Award
-=====
-* Our Paper of [Open IE](https://aclanthology.org/2023.emnlp-main.360/) won <b>EMNLP Outstanding Paper</b>.
-* [VisKop](https://aclanthology.org/2023.acl-demo.17/) won <b>ACL2023 Best Demo Paper Award</b>.
-* [MOOCCubeX](https://github.com/THU-KEG/MOOCCubeX) won <b>CIKM2021 Best Resource Paper Nomination</b>.
-* The Knowledgeable Intelligence in MOOCs. (AI Time 2020) [Sildes](https://cloud.tsinghua.edu.cn/f/6d97a85ca980409cab2f/)
-
-
 What's New ?
 =====
 * We have two papers accepted by KDD 2024, Congrats to Fanjin and Shangqing!
 * We have two papers accepted by ACL 2024, Congrats to Shangqing and Xiaokang!
 * Our work, KoLA, a large-scale knowledge benchmark for carefully evaluting LLMs, was accepted by ICLR2024! [Website](https://kola.xlore.cn/)
-* We propose the paper list of ChatGPT Detection as [EvaluationPapers4ChatGPT](https://github.com/THU-KEG/EvaluationPapers4ChatGPT) ! 
+
+Invited Talk & Award
+=====
+* Our Paper of [Open IE](https://aclanthology.org/2023.emnlp-main.360/) won <font color=red><i><b>EMNLP Outstanding Paper</b></i></font>.
+* [VisKop](https://aclanthology.org/2023.acl-demo.17/) won <font color=red><i><b>ACL2023 Best Demo Paper Award</b></i></font>.
+* [MOOCCubeX](https://github.com/THU-KEG/MOOCCubeX) won <font color=red><i><b>CIKM2021 Best Resource Paper Nomination</b></i></font>.
+* The Knowledgeable Intelligence in MOOCs. (AI Time 2020) [Sildes](https://cloud.tsinghua.edu.cn/f/6d97a85ca980409cab2f/)
 
 Selected Publications
 ======
