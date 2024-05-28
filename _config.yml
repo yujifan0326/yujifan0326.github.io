@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Jifan Yu"
 title_separator          : "-"
 name                     : &name "Jifan Yu"
-description              : &description "4th Year Grad Student @ Knowledge Engineering Group, Tsinghua University"
+description              : &description "Assistant Researcher @ Institute of Education, Tsinghua University"
 url                      : https://yujifan0326.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "yujifan0326/yujifan0326.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Jifan Yu (于济凡)"
   avatar           : "profile.jpg"
-  bio              : "5th Year Grad Student @ KEG, Tsinghua University"
+  bio              : "Assistant Researcher @ IOE, Tsinghua University"
   location         : "Beijing, China"
   employer         :
   pubmed           :

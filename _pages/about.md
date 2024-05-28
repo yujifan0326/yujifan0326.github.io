@@ -8,35 +8,35 @@ redirect_from:
   - /about.html
 ---
 
-I am a 5th year Ph.D student at the [Department of Computer Science and Technology](http://www.cs.tsinghua.edu.cn/) in Tsinghua University, supervised by [Prof. Juanzi Li](http://keg.cs.tsinghua.edu.cn/persons/ljz/) and [Prof. Jie Tang](https://keg.cs.tsinghua.edu.cn/jietang/).
-I received my bachelor's degree in the college of Software Engineering from [Beihang University](https://www.buaa.edu.cn/).
-My research interests includes Knowledge Engineering and AI-driven Education, and I am currently working on their explorations with the assistance of pretrained models.
+I am an Assistant Researcher at the [Institute of Education](https://www.ioe.tsinghua.edu.cn/) in Tsinghua University. I got my Ph.D degree in the [Knowledge Engineering Group (KEG)](https://keg.cs.tsinghua.edu.cn/), supervised by [Prof. Juanzi Li](http://keg.cs.tsinghua.edu.cn/persons/ljz/) and [Prof. Jie Tang](https://keg.cs.tsinghua.edu.cn/jietang/).
+My research interests focus on Knowledge-driven AI in Education, especially Educational Large Models and Agents. I am looking for self-motivated, high-caliber collaborators, research assistants, and candidate master's students. Some of our publicly available resources for AI-Edu can be found here: [MOOCCube](https://github.com/THU-KEG/MOOCCubeX).
 
 Invited Talk & Award
 =====
-
-* MOOCCubeX is presented as <b>CIKM2021 Best Resource Paper Nomination Award</b>
+* Our [Paper](https://aclanthology.org/2023.emnlp-main.360/) of Open IE won  <b>EMNLP Outstanding Paper</b>.
+* [VisKop](https://aclanthology.org/2023.acl-demo.17/) won <b>ACL2023 Best Demo Paper Award</b>.
+* [MOOCCubeX](https://github.com/THU-KEG/MOOCCubeX) won <b>CIKM2021 Best Resource Paper Nomination</b>.
 * The Knowledgeable Intelligence in MOOCs. (AI Time 2020) [Sildes](https://cloud.tsinghua.edu.cn/f/6d97a85ca980409cab2f/)
 
 
 What's New ?
 =====
+* We have two papers accepted by KDD 2024, Congrats to Fanjin and Shangqing!
+* We have two papers accepted by ACL 2024, Congrats to Shangqing and Xiaokang!
+* Our work, KoLA, a large-scale knowledge benchmark for carefully evaluting LLMs, was accepted by ICLR2024! [Website](https://kola.xlore.cn/)
+* Our work of MOOC Cognitive Diagnosis dataset MOOC-Radar has been accepted by SIGIR 2023 !
+* We propose the paper list of ChatGPT Detection as [EvaluationPapers4ChatGPT](https://github.com/THU-KEG/EvaluationPapers4ChatGPT) ! 
 
-* We build KoLA, a large-scale knowledge benchmark for carefully evaluting LLMs, which is now available !! [Website](https://kola.xlore.cn/)
-* Our work of MOOC Cognitive Diagnosis dataset MOOC-Radar has been accepted by SIGIR 2023 !!
-* We propose the paper list of ChatGPT Detection as [EvaluationPapers4ChatGPT](https://github.com/THU-KEG/EvaluationPapers4ChatGPT) !! 
-
-Publications & Preprints
+Selected Publications
 ======
-
-2023
------
-
 <style>
 td, th {
    border: none!important;
 }
 </style>
+
+2024
+-----
 
 <table style="border: none!important;">
 	  <tbody><tr><td style="width:230px; height:110px" valign="middle" align="middle">
@@ -51,7 +51,7 @@ td, th {
         </b>
         <br>
 		<i>
-        	Arxiv
+        	ICLR 2024
         </i>
         <br>
 	    	<b>Jifan Yu</b>*, Xiaozhi Wang*, Shangqing Tu, Shulin Cao, Daniel Zhang-Li, Xin Lv, Hao Peng, Zijun Yao, Xiaohan Zhang, Hanming Li, Chunyang Li, Zheyuan Zhang, Yushi Bai, Yantao Liu, Amy Xin, Nianyi Lin, Kaifeng Yun, Linlu Gong, Jianhui Chen, Zhili Wu, Yunjia Qi, Weikai Li, Yong Guan, Kaisheng Zeng, Ji Qi, Hailong Jin, Jinxi Liu, Yu Gu, Yuan Yao, Ning Ding, Lei Hou, Zhiyuan Liu, Bin Xu, Jie Tang, Juanzi Li
@@ -64,6 +64,62 @@ td, th {
 		</div>
 	</td></tr></tbody>
 </table>
+
+<table style="border: none!important;">
+	  <tbody><tr><td style="width:230px; height:110px" valign="middle" align="middle">
+	    <img src="http://yujifan0326.github.io/images/pub/causal.png" width="250">
+	  </td>
+	  <td style="width:10px">
+	  </td>
+	  <td valign="middle">
+	    <div>
+	    	<b>
+        	A Cause-Effect Look at Alleviating Hallucination of Knowledge-grounded Dialogue Generation
+        </b>
+        <br>
+		<i>
+        	COLING 2024
+        </i>
+        <br>
+	    	<b>Jifan Yu</b>, Xiaohan Zhang, Yifan Xu, Xuanyu Lei, Zijun Yao, Jing Zhang, Lei Hou, Juanzi Li
+        <br>
+        [<a href="https://arxiv.org/pdf/2404.03491">PDF</a>]
+        <br>
+	    In this paper, we analyze the causal story behind this problem with counterfactual reasoning methods. Based on the causal effect analysis, we propose a possible solution for alleviating the hallucination in KGD by exploiting the dialogue-knowledge interaction.
+		</div>
+	</td></tr></tbody>
+</table>
+
+
+<table style="border: none!important;">
+	  <tbody><tr><td style="width:230px; height:110px" valign="middle" align="middle">
+	    <img src="http://yujifan0326.github.io/images/pub/Pinose.png" width="250">
+	  </td>
+	  <td style="width:10px">
+	  </td>
+	  <td valign="middle">
+	    <div>
+	    	<b>
+        	Transferable and Efficient Non-Factual Content Detection via Probe Training with Offline Consistency Checking
+        </b>
+        <br>
+		<i>
+        	ACL 2024
+        </i>
+        <br>
+	    	Xiaokang Zhang, Zijun Yao, Jing Zhang, Kaifeng Yun, <b>Jifan Yu</b>, Juanzi Li, Jie Tang
+        <br>
+        [<a href="https://arxiv.org/pdf/2404.06742">PDF</a>]
+        <br>
+	    This paper proposes PINOSE, which trains a probing model on offline self-consistency checking results, thereby circumventing the need for human-annotated data and achieving transferability across diverse data distributions.
+		</div>
+	</td></tr></tbody>
+</table>
+
+
+2023
+-----
+
 
 <table style="border: none!important;">
 	  <tbody><tr><td style="width:230px; height:110px" valign="middle" align="middle">
@@ -118,6 +174,84 @@ td, th {
 
 <table style="border: none!important;">
 	  <tbody><tr><td style="width:230px; height:110px" valign="middle" align="middle">
+	    <img src="http://yujifan0326.github.io/images/pub/VisKop.png" width="250">
+	  </td>
+	  <td style="width:10px">
+	  </td>
+	  <td valign="middle">
+	    <div>
+	    	<b>
+        	VisKoP: Visual Knowledge oriented Programming for Interactive Knowledge Base Question Answering  <font color=red><i>(Best Demo Paper Award)</i></font>
+        </b>
+        <br>
+		<i>
+        	ACL 2023 Demo 
+        </i>
+        <br>
+	    	Zijun Yao, Yuanyong Chen, Xin Lv, Shulin Cao, Amy Xin, <b>Jifan Yu</b>, Hailong Jin, Jianjun Xu, Peng Zhang, Lei Hou, Juanzi Li
+        <br>
+        [<a href="https://arxiv.org/pdf/2307.03130">Paper</a>]
+		[<a href="https://pypi.org/project/kopl-engine">Demo</a>]
+        <br>
+			We present Visual Knowledge oriented Programming platform (VisKoP), a knowledge base question answering (KBQA) system that integrates human into the loop to edit and debug the knowledge base (KB) queries.
+		</div>
+	</td></tr></tbody>
+</table>
+
+<table style="border: none!important;">
+	  <tbody><tr><td style="width:230px; height:110px" valign="middle" align="middle">
+	    <img src="http://yujifan0326.github.io/images/pub/Cog-Assess.png" width="250">
+	  </td>
+	  <td style="width:10px">
+	  </td>
+	  <td valign="middle">
+	    <div>
+	    	<b>
+        	Exploring the Cognitive Knowledge Structure of Large Language Models: An Educational Diagnostic Assessment Approach
+        </b>
+        <br>
+		<i>
+        	EMNLP 2023
+        </i>
+        <br>
+	    	Zheyuan Zhang*, <b>Jifan Yu</b>*, Juanzi Li, Lei Hou
+        <br>
+        [<a href="https://arxiv.org/pdf/2310.08172">Paper</a>]
+        <br>
+			In this paper, based on educational diagnostic assessment method, we conduct an evaluation using MoocRadar, a meticulously annotated human test dataset based on Bloom Taxonomy.
+		</div>
+	</td></tr></tbody>
+</table>
+
+
+<table style="border: none!important;">
+	  <tbody><tr><td style="width:230px; height:110px" valign="middle" align="middle">
+	    <img src="http://yujifan0326.github.io/images/pub/OIE.png" width="250">
+	  </td>
+	  <td style="width:10px">
+	  </td>
+	  <td valign="middle">
+	    <div>
+	    	<b>
+        	Mastering the Task of Open Information Extraction with Large Language Models and Consistent Reasoning Environment <font color=red><i>(Outstanding Paper)</i></font>
+        </b>
+        <br>
+		<i>
+        	EMNLP 2023
+        </i>
+        <br>
+	    	Ji Qi, Kaixuan Ji, Xiaozhi Wang, <b>Jifan Yu</b>, Kaisheng Zeng, Lei Hou, Juanzi Li, Bin Xu
+        <br>
+        [<a href="https://arxiv.org/pdf/2310.10590">Paper</a>]
+        <br>
+			As the large language models (LLMs) have exhibited remarkable in-context learning capabilities, a question arises as to whether the task of OIE can be effectively tackled with this paradigm? In this paper, we explore solving the OIE problem by constructing an appropriate reasoning environment for LLMs.
+		</div>
+	</td></tr></tbody>
+</table>
+
+
+<table style="border: none!important;">
+	  <tbody><tr><td style="width:230px; height:110px" valign="middle" align="middle">
 	    <img src="http://yujifan0326.github.io/images/pub/glm-dialog.png" width="250">
 	  </td>
 	  <td style="width:10px">
@@ -138,6 +272,83 @@ td, th {
 		[<a href="https://arxiv.org/pdf/2302.14401.pdf">PDF</a>]
         <br>
 			We present GLM-Dialog, a large-scale language model (LLM) with 10B parameters capable of knowledge-grounded conversation in Chinese using a search engine to access the Internet knowledge. GLM-Dialog offers a series of applicable techniques for exploiting various external knowledge including both helpful and noisy knowledge, enabling the creation of robust knowledge-grounded dialogue LLMs with limited proper datasets. 
+		</div>
+	</td></tr></tbody>
+</table>
+
+<table style="border: none!important;">
+	  <tbody><tr><td style="width:230px; height:110px" valign="middle" align="middle">
+	    <img src="http://yujifan0326.github.io/images/pub/LittleMu.png" width="250">
+	  </td>
+	  <td style="width:10px">
+	  </td>
+	  <td valign="middle">
+	    <div>
+	    	<b>
+        	LittleMu: Deploying an Online Virtual Teaching Assistant via Heterogeneous Sources Integration and Chain of Teach Prompts
+        </b>
+        <br>
+		<i>
+        	CIKM 2023
+        </i>
+        <br>
+	    	Shangqing Tu, Zheyuan Zhang, <b>Jifan Yu</b>, Chunyang Li, Siyu Zhang, Zijun Yao, Lei Hou, Juanzi Li
+        <br>
+        [<a href="https://dl.acm.org/doi/pdf/10.1145/3583780.3615484">PDF</a>]
+        <br>
+	    In this paper, we present a virtual MOOC teaching assistant, LittleMu with minimum labeled training data, to provide question answering and chit-chat services. 
+		</div>
+	</td></tr></tbody>
+</table>
+
+<table style="border: none!important;">
+	  <tbody><tr><td style="width:230px; height:110px" valign="middle" align="middle">
+	    <img src="http://yujifan0326.github.io/images/pub/goal.png" width="250">
+	  </td>
+	  <td style="width:10px">
+	  </td>
+	  <td valign="middle">
+	    <div>
+	    	<b>
+        	GOAL: A Challenging Knowledge-grounded Video Captioning Benchmark for Real-time Soccer Commentary Generation
+        </b>
+        <br>
+		<i>
+        	CIKM 2023
+        </i>
+        <br>
+	    	Ji Qi*, <b>Jifan Yu</b>*, Teng Tu, Kunyu Gao, Yifan Xu, Xinyu Guan, Xiaozhi Wang, Bin Xu, Lei Hou, Juanzi Li, Jie Tang
+        <br>
+		[<a href="https://arxiv.org/pdf/2303.14655v1.pdf">Paper</a>]
+		[<a href="https://github.com/THU-KEG/goal">Repository</a>]
+        <br>
+			In this paper, we present GOAL, a benchmark of over 8.9k soccer video clips, 22k sentences, and 42k knowledge triples for proposing a challenging new task setting as Knowledge-grounded Video Captioning (KGVC).
+		</div>
+	</td></tr></tbody>
+</table>
+
+<table style="border: none!important;">
+	  <tbody><tr><td style="width:230px; height:110px" valign="middle" align="middle">
+	    <img src="http://yujifan0326.github.io/images/pub/llm-as-exam.png" width="250">
+	  </td>
+	  <td style="width:10px">
+	  </td>
+	  <td valign="middle">
+	    <div>
+	    	<b>
+        	Benchmarking Foundation Models with Language-Model-as-an-Examiner
+        </b>
+        <br>
+		<i>
+        	NeuraIPS 2023 Benchmarking Track
+        </i>
+        <br>
+	    	Yushi Bai, Jiahao Ying, Yixin Cao, Xin Lv, Yuze He, Xiaozhi Wang, <b>Jifan Yu</b>, Kaisheng Zeng, Yijia Xiao, Haozhe Lyu, Jiayin Zhang, Juanzi Li, Lei Hou
+        <br>
+        [<a href="https://proceedings.neurips.cc/paper_files/paper/2023/file/f64e55d03e2fe61aa4114e49cb654acb-Paper-Datasets_and_Benchmarks.pdf">PDF</a>]
+		[<a href="http://lmexam.xlore.cn.">Repository</a>]
+        <br>
+			(1) We instruct the LM examiner to generate questions across a multitude of domains to probe for a broad acquisition, and raise follow-up questions to engage in a more in-depth assessment. (2) Upon evaluation, the examiner combines both scoring and ranking measurements, providing a reliable result as it aligns closely with human annotations. (3) We additionally propose a decentralized Peer-examination method to address the biases in a single examiner.
 		</div>
 	</td></tr></tbody>
 </table>
@@ -168,31 +379,7 @@ td, th {
 	</td></tr></tbody>
 </table>
 
-<table style="border: none!important;">
-	  <tbody><tr><td style="width:230px; height:110px" valign="middle" align="middle">
-	    <img src="http://yujifan0326.github.io/images/pub/goal.png" width="250">
-	  </td>
-	  <td style="width:10px">
-	  </td>
-	  <td valign="middle">
-	    <div>
-	    	<b>
-        	GOAL: A Challenging Knowledge-grounded Video Captioning Benchmark for Real-time Soccer Commentary Generation
-        </b>
-        <br>
-		<i>
-        	Arxiv
-        </i>
-        <br>
-	    	Ji Qi*, <b>Jifan Yu</b>*, Teng Tu, Kunyu Gao, Yifan Xu, Xinyu Guan, Xiaozhi Wang, Bin Xu, Lei Hou, Juanzi Li, Jie Tang
-        <br>
-        [<a href="https://github.com/THU-KEG/goal">Paper</a>]
-		[<a href="https://arxiv.org/pdf/2303.14655v1.pdf">Paper</a>]
-        <br>
-			In this paper, we present GOAL, a benchmark of over 8.9k soccer video clips, 22k sentences, and 42k knowledge triples for proposing a challenging new task setting as Knowledge-grounded Video Captioning (KGVC).
-		</div>
-	</td></tr></tbody>
-</table>
+
 
 2022
 -----
