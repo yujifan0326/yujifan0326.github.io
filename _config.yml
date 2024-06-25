@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Jifan Yu"
 title_separator          : "-"
 name                     : &name "Jifan Yu"
-description              : &description "Assistant Researcher @ Institute of Education, Tsinghua University"
+description              : &description "Postdoctoral Researcher @ Institute of Education, Tsinghua University"
 url                      : https://yujifan0326.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "yujifan0326/yujifan0326.github.io"
@@ -73,9 +73,9 @@ social:
 
 # Analytics
 analytics:
-  provider               :  "false" # false (default), "google", "google-universal", "custom"
+  provider               :  "google" # false (default), "google", "google-universal", "custom"
   google:
-    tracking_id          :  "G-8LXY1GR6PS"
+    tracking_id          :  "G-ZKG5S0KN61"
 
 
 # Site Author
