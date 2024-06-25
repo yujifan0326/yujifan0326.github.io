@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am an Assistant Researcher at the [Institute of Education](https://www.ioe.tsinghua.edu.cn/) in Tsinghua University. I got my Ph.D degree in the [Knowledge Engineering Group (KEG)](https://keg.cs.tsinghua.edu.cn/), Tsinghua University, supervised by [Prof. Juanzi Li](http://keg.cs.tsinghua.edu.cn/persons/ljz/) and [Prof. Jie Tang](https://keg.cs.tsinghua.edu.cn/jietang/).
+I am a Postdoctoral Researcher at the [Institute of Education](https://www.ioe.tsinghua.edu.cn/) at Tsinghua University. I got my Ph.D degree at the [Knowledge Engineering Group (KEG)](https://keg.cs.tsinghua.edu.cn/), Department of Computer Science and Technology, Tsinghua University, supervised by [Prof. Juanzi Li](http://keg.cs.tsinghua.edu.cn/persons/ljz/) and [Prof. Jie Tang](https://keg.cs.tsinghua.edu.cn/jietang/).
 My research interests focus on Knowledge-driven AI in Education, especially Educational Large Models and Agents. I am looking for self-motivated, high-caliber collaborators, research assistants, and candidate master's students. 
 
 Some of our publicly available resources for AI-Edu can be found here: 
@@ -56,7 +56,7 @@ td, th {
         	ICLR 2024
         </i>
         <br>
-	    	<b>Jifan Yu</b>*, Xiaozhi Wang*, Shangqing Tu, Shulin Cao, Daniel Zhang-Li, Xin Lv, Hao Peng, Zijun Yao, Xiaohan Zhang, Hanming Li, Chunyang Li, Zheyuan Zhang, Yushi Bai, Yantao Liu, Amy Xin, Nianyi Lin, Kaifeng Yun, Linlu Gong, Jianhui Chen, Zhili Wu, Yunjia Qi, Weikai Li, Yong Guan, Kaisheng Zeng, Ji Qi, Hailong Jin, Jinxi Liu, Yu Gu, Yuan Yao, Ning Ding, Lei Hou, Zhiyuan Liu, Bin Xu, Jie Tang, Juanzi Li
+	    	<b>Jifan Yu</b>*, Xiaozhi Wang*, Shangqing Tu*, Shulin Cao, Daniel Zhang-Li, Xin Lv, Hao Peng, Zijun Yao, Xiaohan Zhang, Hanming Li, Chunyang Li, Zheyuan Zhang, Yushi Bai, Yantao Liu, Amy Xin, Nianyi Lin, Kaifeng Yun, Linlu Gong, Jianhui Chen, Zhili Wu, Yunjia Qi, Weikai Li, Yong Guan, Kaisheng Zeng, Ji Qi, Hailong Jin, Jinxi Liu, Yu Gu, Yuan Yao, Ning Ding, Lei Hou, Zhiyuan Liu, Bin Xu, Jie Tang, Juanzi Li
         <br>
         [<a href="https://kola.xlore.cn/">Platform</a>]
 		[<a href="https://arxiv.org/pdf/2306.09296.pdf">PDF</a>]
