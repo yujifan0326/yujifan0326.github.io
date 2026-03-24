@@ -8,22 +8,24 @@ redirect_from:
   - /about.html
 ---
 
-I am a Postdoctoral Researcher at the [Institute of Education](https://www.ioe.tsinghua.edu.cn/) at Tsinghua University. I got my Ph.D degree at the [Knowledge Engineering Group (KEG)](https://keg.cs.tsinghua.edu.cn/), Department of Computer Science and Technology, Tsinghua University, supervised by [Prof. Juanzi Li](http://keg.cs.tsinghua.edu.cn/persons/ljz/) and [Prof. Jie Tang](https://keg.cs.tsinghua.edu.cn/jietang/).
-My research interests focus on Knowledge-driven AI in Education, especially Educational Large Models and Agents. I am looking for self-motivated, high-caliber collaborators, research assistants, and candidate master's students. 
+I am a Researcher at the [School of Education](https://www.ioe.tsinghua.edu.cn/) at Tsinghua University. I got my Ph.D degree at the [Knowledge Engineering Group (KEG)](https://keg.cs.tsinghua.edu.cn/), Department of Computer Science and Technology, Tsinghua University, supervised by [Prof. Juanzi Li](http://keg.cs.tsinghua.edu.cn/persons/ljz/) and [Prof. Jie Tang](https://keg.cs.tsinghua.edu.cn/jietang/).
+My research interests focus on Knowledge-driven AI in Education, especially Educational Large Models and Agents. I am leading the [THU-MAIC Team](https://project.maic.chat/) and continuously looking for self-motivated, high-caliber collaborators, research assistants, and candidate master's students. For more details, you can check my [Chinese CV](https://cloud.tsinghua.edu.cn/f/bdee8fb9700f45f38cec/) or [English CV](https://cloud.tsinghua.edu.cn/f/dfa1b015c70e4b6ea0d5/).
 
 Some of our publicly available resources for AI-Edu can be found here: 
+* [OpenMAIC](https://github.com/THU-MAIC/OpenMAIC).
 * [MOOCCube](https://github.com/THU-KEG/MOOCCubeX).
 * [AI-driven MOOC](https://github.com/THU-KEG/Awesome_MOOCs).
 * [LLM Evaluation](https://github.com/THU-KEG/EvaluationPapers4ChatGPT).
 
 What's New ?
 =====
-* We have two papers accepted by KDD 2024, Congrats to Fanjin and Shangqing!
+* Our [OpenMAIC](https://github.com/THU-MAIC/OpenMAIC) achieved 11k Github Stars in five days!
 * We have two papers accepted by ACL 2024, Congrats to Shangqing and Xiaokang!
-* Our work, KoLA, a large-scale knowledge benchmark for carefully evaluting LLMs, was accepted by ICLR2024! [Website](https://kola.xlore.cn/)
 
 Invited Talk & Award
 =====
+* Our Work on Massive Open Online Course won <font color=red><i><b>EMNLP Outstanding Paper</b></i></font> of 2025.
+* MAIC is awarded as 
 * Our Paper of [Open IE](https://aclanthology.org/2023.emnlp-main.360/) won <font color=red><i><b>EMNLP Outstanding Paper</b></i></font>.
 * [VisKop](https://aclanthology.org/2023.acl-demo.17/) won <font color=red><i><b>ACL2023 Best Demo Paper Award</b></i></font>.
 * [MOOCCubeX](https://github.com/THU-KEG/MOOCCubeX) won <font color=red><i><b>CIKM2021 Best Resource Paper Nomination</b></i></font>.
@@ -39,6 +41,31 @@ td, th {
 
 2024
 -----
+
+<table style="border: none!important;">
+  <tbody><tr><td style="width:230px; height:110px" valign="middle" align="middle">
+    <img src="http://yujifan0326.github.io/images/pub/lm-inter.png" width="250">
+  </td>
+  <td style="width:10px">
+  </td>
+  <td valign="middle">
+    <div>
+      <b>
+        LM-Interview: An Easy-to-use Smart Interviewer System via Knowledge-guided Language Model Exploitation
+      </b>
+      <br>
+      <i>
+        EMNLP 2024 Demo
+      </i>
+      <br>
+      Hanming Li, <b>Jifan Yu</b>, Ruimiao Li, Zhanxin Hao, Xuan Yan, Jiaxin Yuan, Bin Xu, Juanzi Li, Zhiyuan Liu
+      <br>
+      [<a href="https://aclanthology.org/2024.emnlp-demo.52.pdf">PDF</a>]
+      <br>
+      We present LM-Interview, a knowledge-guided language model system that automates the full pipeline of semi-structured interviews, including interview guide construction, intelligent dialogue execution, and multimodal data analysis. By adopting a state-action-reward paradigm for fine-grained control of interview flow, the system supports both qualitative and quantitative analysis dimensions. Experiments in real-world scenarios demonstrate that LM-Interview achieves performance comparable to experienced human interviewers, offering an efficient and scalable solution for qualitative research data collection.
+    </div>
+  </td></tr></tbody>
+</table>
 
 <table style="border: none!important;">
 	  <tbody><tr><td style="width:230px; height:110px" valign="middle" align="middle">
