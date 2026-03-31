@@ -24,8 +24,8 @@ What's New ?
 
 Invited Talk & Award
 =====
-* Our Work on Massive Open Online Course won <font color=red><i><b>EMNLP Outstanding Paper</b></i></font> of 2025.
-* MAIC is awarded as 
+* Our Work on Massive Open Online Course won <font color=red><i><b>The Prize of First Class for the Wu Wenjun Science and Technology Award (吴文俊人工智能科技进步一等奖), </b></i></font> by the Chinese Association for Artificial Intelligence, in 2026.
+* MAIC is awarded as Outstanding Educational Case Studies on AI Safety and AI for Good by the Ministry of Education, China.
 * Our Paper of [Open IE](https://aclanthology.org/2023.emnlp-main.360/) won <font color=red><i><b>EMNLP Outstanding Paper</b></i></font>.
 * [VisKop](https://aclanthology.org/2023.acl-demo.17/) won <font color=red><i><b>ACL2023 Best Demo Paper Award</b></i></font>.
 * [MOOCCubeX](https://github.com/THU-KEG/MOOCCubeX) won <font color=red><i><b>CIKM2021 Best Resource Paper Nomination</b></i></font>.
@@ -41,6 +41,32 @@ td, th {
 
 2024
 -----
+
+
+<table style="border: none!important;">
+  <tbody><tr><td style="width:230px; height:110px" valign="middle" align="middle">
+    <img src="https://repository.isls.org/bitstream/1/11365/1/ICLS2025_1789-1793.png" width="250" onerror="this.src='https://via.placeholder.com/250x110?text=AI+Learning+Partners'">
+  </td>
+  <td style="width:10px">
+  </td>
+  <td valign="middle">
+    <div>
+      <b>
+        AI as Learning Partners: Students' Interactions and Perceptions in a Simulated Classroom with Multiple LLM-Powered Agents
+      </b>
+      <br>
+      <i>
+        ICLS 2025
+      </i>
+      <br>
+      Zhanxin Hao, Fei Qin, Jianxiao Jiang, Jie Cao, <b>Jifan Yu</b>, Zhiyuan Liu, Yu Zhang
+      <br>
+      [<a href="https://repository.isls.org/bitstream/1/11365/1/ICLS2025_1789-1793.pdf">PDF</a>]
+      <br>
+      This study explores how students interact with and perceive multiple AI agents in a simulated classroom environment. Findings reveal that students actively engage in both cognitive and regulatory activities, holding generally positive perceptions of AI agents' cognitive support and personalization capabilities. However, limitations in emotional resonance were identified, highlighting the potential of multi-agent systems to enrich educational experiences while underscoring the need for improved emotional engagement design.
+    </div>
+  </td></tr></tbody>
+</table>
 
 <table style="border: none!important;">
   <tbody><tr><td style="width:230px; height:110px" valign="middle" align="middle">
