@@ -117,7 +117,8 @@ p {
   grid-template-columns:1fr 310px;
   gap:90px;
   align-items:center;
-  padding:72px 0 86px
+  padding:56px 0 64px;
+  margin-bottom:0
 }
 .eyebrow {
   text-transform:uppercase;
@@ -210,7 +211,7 @@ p {
   text-decoration:none
 }
 section {
-  margin-bottom:72px
+  margin-bottom:52px
 }
 .section-heading {
   display:flex;
@@ -393,7 +394,7 @@ summary {
   font-size:14px
 }
 .career-details {
-  margin-bottom:72px;
+  margin-bottom:52px;
   border-top:1px solid var(--line);
   border-bottom:1px solid var(--line)
 }
@@ -542,14 +543,6 @@ summary {
 .interior>ul li {
   margin-bottom:14px;
   font-size:14px
-}
-
-@media(min-width:1400px) {
-  .hero {
-  padding-top:92px;
-  padding-bottom:100px
-}
-
 }
 
 @media(max-width:900px) {
@@ -735,3 +728,7 @@ section {
   font-weight:650
 }
 
+
+.home > .hero {
+  margin-bottom:0;
+}

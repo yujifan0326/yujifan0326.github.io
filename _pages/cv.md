@@ -9,7 +9,7 @@ redirect_from:
 
 I am an Assistant Professor at the School of Education, Tsinghua University, and lead the [THU-MAIC Team](https://project.maic.chat/). My research focuses on generative AI for education, pedagogical agents, multi-agent learning environments, and personalized learning.
 
-[Chinese CV](https://cloud.tsinghua.edu.cn/f/bdee8fb9700f45f38cec/) · [English CV](https://cloud.tsinghua.edu.cn/f/dfa1b015c70e4b6ea0d5/) · [Google Scholar](https://scholar.google.com/citations?user=6cS9CVEAAAAJ&hl=en)
+[Google Scholar](https://scholar.google.com/citations?user=6cS9CVEAAAAJ&hl=en)
 
 Education
 ======
