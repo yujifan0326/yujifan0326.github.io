@@ -1,0 +1,26 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>{% if page.home %}{{ site.title | escape }} · AI for Education{% else %}{{ page.title | escape }} · {{ site.title | escape }}{% endif %}</title>
+  <meta name="description" content="{{ page.excerpt | default: site.description | strip_html | escape }}">
+  <link rel="canonical" href="{{ page.url | absolute_url }}">
+  <link rel="stylesheet" href="{{ '/assets/css/research.css' | relative_url }}">
+  <meta name="theme-color" content="#281f41">
+</head>
+<body>
+  <a class="skip-link" href="#main">Skip to content</a>
+  <header class="site-header">
+    <a class="wordmark" href="{{ '/' | relative_url }}">Jifan Yu<span lang="zh">于济凡</span></a>
+    <nav aria-label="Main navigation">
+      {% for item in site.data.navigation.main %}<a href="{{ item.url | relative_url }}"{% if page.url == item.url %} aria-current="page"{% endif %}>{{ item.title }}</a>{% endfor %}
+    </nav>
+  </header>
+  <main id="main" class="site-main{% if page.home %} home{% else %} interior{% endif %}">
+    {% unless page.home %}<div class="page-heading"><p class="eyebrow">THU-MAIC · AI for education</p><h1>{{ page.title }}</h1>{% if page.subtitle %}<p class="lead">{{ page.subtitle }}</p>{% endif %}</div>{% endunless %}
+    {{ content }}
+  </main>
+  <footer class="site-footer"><span>Jifan Yu · School of Education, Tsinghua University</span><a href="mailto:yujifan@tsinghua.edu.cn">yujifan@tsinghua.edu.cn ↗</a></footer>
+</body>
+</html>

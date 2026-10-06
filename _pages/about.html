@@ -1,0 +1,64 @@
+---
+layout: research
+permalink: /
+title: Jifan Yu
+home: true
+excerpt: Jifan Yu, Assistant Professor at Tsinghua University. Generative AI for education, MAIC, and OpenMAIC.
+redirect_from:
+  - /about/
+  - /about.html
+---
+<section class="hero" aria-labelledby="intro-title">
+  <div class="hero-copy"><p class="eyebrow">Tsinghua University · THU-MAIC</p><h1 id="intro-title">Jifan Yu <span lang="zh">于济凡</span></h1><p class="role">Assistant Professor, School of Education</p><p class="hero-statement">Building AI that<br>helps people <em>learn.</em></p><p class="hero-description">I study generative AI for education, pedagogical agents, and multi-agent learning environments. I lead the THU-MAIC team at Tsinghua University.</p><div class="hero-links"><a class="button" href="#projects">Explore our work ↗</a><a class="text-link" href="https://scholar.google.com/citations?user=6cS9CVEAAAAJ&hl=en">Google Scholar ↗</a></div></div>
+  <div class="portrait-card"><img src="{{ '/images/profile.jpg' | relative_url }}" alt="Jifan Yu" width="360" height="360"><div class="portrait-caption"><span>AI × Education</span><a href="mailto:yujifan@tsinghua.edu.cn" aria-label="Email Jifan Yu">Contact ↗</a></div></div>
+</section>
+<section id="projects" aria-labelledby="projects-heading">
+  <div class="section-heading"><div><p class="eyebrow">Featured work</p><h2 id="projects-heading">Reimagining how we learn.</h2></div><span class="section-note">MAIC & OpenMAIC</span></div>
+  <div class="project-showcase"><a class="maic-art" href="https://project.maic.chat/"><img src="{{ '/images/maic/banner.png' | relative_url }}" alt="MAIC: an illustrated classroom with AI teachers and learning companions" width="2400" height="842"></a><div class="project-grid">
+    <article class="project-card"><p class="eyebrow">Multi-Agent Interactive Classroom</p><h3>MAIC</h3><p>A new kind of learning environment, where AI teachers and learning companions make online learning interactive and personalized.</p><a class="button" href="https://project.maic.chat/">Visit MAIC ↗</a><a class="text-link" href="https://doi.org/10.1007/s11390-025-6000-0">Read the JCST paper ↗</a></article>
+    <article class="project-card open-source"><p class="eyebrow">Open source · Built for everyone</p><h3>OpenMAIC</h3><p>The open-source project behind MAIC. Explore the code and build with multi-agent educational environments.</p><a class="button" href="https://github.com/THU-MAIC/OpenMAIC">Explore on GitHub ↗</a><div class="project-recognition"><span>CCF 2026 公益优秀案例 · 全国仅 10 个</span><span>GitHub Trending #1 · Multiple times in 2026</span></div></article>
+  </div></div>
+  <div class="other-projects"><a href="https://github.com/THU-MAIC/MAIC-UI"><strong>MAIC-UI</strong><span>Interactive courseware with generative UI · UIST 2026</span><span aria-hidden="true">↗</span></a><a href="https://github.com/THU-KEG/MOOCCubeX"><strong>MOOCCubeX</strong><span>A knowledge-centered educational repository</span><span aria-hidden="true">↗</span></a><div><strong lang="zh">清小搭</strong><span>Tsinghua University's Top 10 News Stories of 2024</span></div></div>
+</section>
+<section class="home-details" aria-labelledby="about-heading"><div><p class="eyebrow">Research & background</p><h2 id="about-heading">About me</h2>{% capture biography %}
+I am an Assistant Professor at the [School of Education](https://www.ioe.tsinghua.edu.cn/), Tsinghua University, where I lead the [THU-MAIC Team](https://project.maic.chat/). I received my Ph.D. in Computer Science and Technology from Tsinghua University in January 2024, supervised by [Prof. Juanzi Li](http://keg.cs.tsinghua.edu.cn/persons/ljz/) and [Prof. Jie Tang](https://keg.cs.tsinghua.edu.cn/jietang/), and my bachelor's degree in Software Engineering from Beihang University in 2018. I was previously a Shuimu Scholar at Tsinghua University.
+
+My research focuses on generative AI for education and the design of new learning environments. I develop knowledge-guided educational language models, safe and controllable pedagogical agents, multi-agent learning environments, and personalized learning algorithms. I also explore AI-assisted educational research, including learner modeling, learning behavior simulation, and automated collection, analysis, and assessment of educational data.
+
+I am looking for self-motivated collaborators, research assistants, and prospective master's students interested in AI for education. For more details, see my [Chinese CV](https://cloud.tsinghua.edu.cn/f/bdee8fb9700f45f38cec/) or [English CV](https://cloud.tsinghua.edu.cn/f/dfa1b015c70e4b6ea0d5/).
+{% endcapture %}{{ biography | markdownify }}<a class="text-link" href="{{ '/cv/' | relative_url }}">Full curriculum vitae ↗</a></div><aside class="news-card"><p class="eyebrow">Recent updates · 2026</p><h2>What's new</h2>{% capture news %}
+*  I was invited to give a talk at **UNESCO Headquarters**.
+*  [OpenMAIC](https://github.com/THU-MAIC/OpenMAIC) was selected as a **CCF Outstanding Public Welfare Case (CCF 公益优秀案例)**, one of only **10 cases nationwide**.
+*  [OpenMAIC](https://github.com/THU-MAIC/OpenMAIC) reached **No. 1 on GitHub Trending multiple times**.
+*  Our [MAIC-UI](https://arxiv.org/abs/2604.25806) paper has been accepted to **UIST 2026**.
+*  [From MOOC to MAIC](https://doi.org/10.1007/s11390-025-6000-0) was published in **Journal of Computer Science and Technology (JCST)**.
+{% endcapture %}{{ news | markdownify }}</aside></section>
+<section aria-labelledby="papers-heading"><div class="section-heading"><div><p class="eyebrow">Recent research</p><h2 id="papers-heading">Selected publications</h2></div><a class="text-link" href="{{ '/publications/' | relative_url }}">All publications ↗</a></div>{% include recent-publications.html year=2026 limit=4 %}</section>
+<section class="people-callout"><div><p class="eyebrow">Learning together</p><h2>Meet the students</h2><p>Our growing research community at Tsinghua University.</p></div><a class="button" href="{{ '/students/' | relative_url }}">Students ↗</a></section>
+<details class="career-details"><summary>Grants, awards & invited talks <span aria-hidden="true">＋</span></summary><div>{% capture career %}
+Selected Research Grants
+=====
+* **Principal Investigator**, National Natural Science Foundation of China Young Scientists Fund, 2025–2027: Knowledge- and LLM-integrated intelligent guidance for online education (融合知识与大模型的在线教育智能导学关键技术研究).
+* **Principal Investigator**, CIPS-SMP Interdisciplinary Large Model Fund, 2025–2026: Explainable student cognitive diagnosis with LLM workflows (基于大模型工作流的可解释学生认知诊断关键技术研究).
+* **Subproject Lead**, Tsinghua University Guoqiang Institute, 2024–2026: A virtual campus system powered by LLM-based multi-agent technology (基于大模型多智能体的清华大学虚拟校园系统).
+
+Selected Awards & Recognition
+=====
+* **2026:** OpenMAIC received the CCF Outstanding Public Welfare Case recognition (CCF 公益优秀案例), one of only 10 selected cases nationwide.
+* **2026:** Outstanding Case on AI Safety and AI for Good (人工智能安全向善优秀案例), Ministry of Education and Cyberspace Administration of China.
+* **2025:** First Prize, Wu Wenjun AI Science and Technology Progress Award (吴文俊人工智能科技进步一等奖), for our work on massive open online courses.
+* **2025:** Exhibition demonstration project at the World Digital Education Conference, “全AI守护课堂”.
+* **2024:** Selected for the Ministry of Education's first batch of “AI + Higher Education” typical applications, one of 18 selected projects nationwide.
+* **2024:** Tsinghua University's Top 10 News Stories, “清小搭”; Tsinghua Shuimu Scholar.
+* **2023:** [EMNLP Outstanding Paper Award](https://aclanthology.org/2023.emnlp-main.360/).
+* **2023:** [ACL Best Demo Paper Award](https://aclanthology.org/2023.acl-demo.17/) for VisKoP.
+* **2021:** [CIKM Best Resource Paper Nomination](https://github.com/THU-KEG/MOOCCubeX) for MOOCCubeX.
+
+Selected Invited Talks
+=====
+* **2026:** Invited talk at UNESCO Headquarters.
+* **2025:** “当MCP赋能‘MCP’：多智能体数智学习模式”, China National Computer Congress (CNCC), Harbin, China.
+* **2025:** “Reshaping Online Learning via Emergence of LLM-driven Multiple Agents”, AICET Workshop, Singapore.
+* **2024:** “面向认知的大模型自主智能体技术及其教育应用”, World Artificial Intelligence Conference (WAIC), Shanghai, China.
+* **2020:** “The Knowledgeable Intelligence in MOOCs”, AI Time. [Slides](https://cloud.tsinghua.edu.cn/f/6d97a85ca980409cab2f/)
+{% endcapture %}{{ career | markdownify }}</div></details>

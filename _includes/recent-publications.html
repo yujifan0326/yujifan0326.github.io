@@ -1,20 +1,11 @@
 {% assign recent_papers = site.data.recent_publications | where: "year", include.year %}
-{% for paper in recent_papers %}
-<table style="border: none!important;">
-  <tbody><tr><td valign="middle">
-    <div>
-      <b>{{ paper.title | escape }}</b><br>
-      <i>{{ paper.venue | escape }}</i><br>
-      {% for author in paper.authors %}{% if author == "Jifan Yu" or author == "于济凡" %}<b>{{ author | escape }}</b>{% else %}{{ author | escape }}{% endif %}{% unless forloop.last %}, {% endunless %}{% endfor %}
-      {% if paper.contribution %}<br>{{ paper.contribution | escape }}{% endif %}
-      {% if paper.paper_url or paper.pdf_url or paper.preprint_url or paper.code_url %}<br>
-      {% if paper.paper_url %}[<a href="{{ paper.paper_url | escape }}">{% if paper.paper_url contains "arxiv.org" %}arXiv{% else %}Paper{% endif %}</a>]{% endif %}
-      {% if paper.pdf_url %}[<a href="{{ paper.pdf_url | escape }}">PDF</a>]{% endif %}
-      {% if paper.preprint_url %}[<a href="{{ paper.preprint_url | escape }}">arXiv</a>]{% endif %}
-      {% if paper.code_url %}[<a href="{{ paper.code_url | escape }}">Code</a>]{% endif %}
-      {% endif %}
-      {% if paper.summary %}<br>{{ paper.summary | escape }}{% endif %}
-    </div>
-  </td></tr></tbody>
-</table>
+{% for paper in recent_papers limit: include.limit %}
+<article class="publication">
+  <p class="paper-venue">{{ paper.venue | escape }}</p>
+  <h3>{{ paper.title | escape }}</h3>
+  <p class="paper-authors">{% for author in paper.authors %}{% if author == "Jifan Yu" or author == "于济凡" %}<strong>{{ author | escape }}</strong>{% else %}{{ author | escape }}{% endif %}{% unless forloop.last %}, {% endunless %}{% endfor %}</p>
+  {% if paper.contribution %}<p class="paper-contribution">{{ paper.contribution | escape }}</p>{% endif %}
+  <div class="paper-links">{% if paper.paper_url %}<a href="{{ paper.paper_url | escape }}">{% if paper.paper_url contains "arxiv.org" %}arXiv{% else %}Paper{% endif %} ↗</a>{% endif %}{% if paper.pdf_url %}<a href="{{ paper.pdf_url | escape }}">PDF ↗</a>{% endif %}{% if paper.preprint_url %}<a href="{{ paper.preprint_url | escape }}">Preprint ↗</a>{% endif %}{% if paper.code_url %}<a href="{{ paper.code_url | escape }}">Code ↗</a>{% endif %}</div>
+  {% if paper.summary %}<details class="paper-abstract"><summary>About this paper</summary><p>{{ paper.summary | escape }}</p></details>{% endif %}
+</article>
 {% endfor %}

@@ -1,0 +1,23 @@
+---
+layout: research
+title: Students
+permalink: /students/
+subtitle: People exploring the future of AI and learning.
+excerpt: Students advised by Jifan Yu at Tsinghua University.
+---
+<section aria-labelledby="doctoral-heading">
+  <div class="section-heading"><h2 id="doctoral-heading">Doctoral students <span lang="zh">博士生</span></h2></div>
+  <div class="student-grid">
+    {% for student in site.data.students %}{% if student.degree == "Ph.D. student" %}
+    <article class="student-card"><div class="student-monogram" aria-hidden="true">{{ student.name | slice: 0, 1 }}</div><h3 lang="zh">{{ student.name }}</h3><p>{{ student.degree }} · {{ student.cohort }} intake</p>{% if student.incoming %}<span class="pill" lang="zh">即将入学 · Incoming</span>{% endif %}</article>
+    {% endif %}{% endfor %}
+  </div>
+</section>
+<section aria-labelledby="masters-heading">
+  <div class="section-heading"><h2 id="masters-heading">Master's students <span lang="zh">硕士生</span></h2></div>
+  <div class="student-grid">
+    {% for student in site.data.students %}{% if student.degree == "Master's student" %}
+    <article class="student-card"><div class="student-monogram" aria-hidden="true">{{ student.name | slice: 0, 1 }}</div><h3 lang="zh">{{ student.name }}</h3><p>{{ student.degree }} · {{ student.cohort }} intake</p></article>
+    {% endif %}{% endfor %}
+  </div>
+</section>

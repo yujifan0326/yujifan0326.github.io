@@ -1,5 +1,5 @@
 # Recent additions; bibliographic metadata checked on 2026-10-06.
-# Existing homepage entries remain in _pages/about.md.
+# Earlier publications are preserved in year-specific publication includes.
 - title: "MAIC-UI: Making Interactive Courseware with Generative UI"
   authors: ["Shangqing Tu", "Yanjia Li", "Keyu Chen", "Sichen Zhang", "Jifan Yu", "Daniel Zhang-Li", "Lei Hou", "Juanzi Li", "Yu Zhang", "Huiqin Liu"]
   venue: "UIST 2026 (Accepted)"

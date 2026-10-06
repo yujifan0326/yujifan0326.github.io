@@ -1,5 +1,5 @@
 ---
-layout: archive
+layout: research
 title: "CV"
 permalink: /cv/
 author_profile: true
@@ -63,4 +63,9 @@ Teaching assistant for:
 
 Publications & Projects
 ======
-See the [homepage's selected publications and projects](/) and my [Google Scholar profile](https://scholar.google.com/citations?user=6cS9CVEAAAAJ&hl=en).
+See my [selected projects](/#projects), [publications](/publications/), and [Google Scholar profile](https://scholar.google.com/citations?user=6cS9CVEAAAAJ&hl=en).
+
+Other Open Resources
+======
+* [AI-driven MOOC](https://github.com/THU-KEG/Awesome_MOOCs).
+* [LLM Evaluation](https://github.com/THU-KEG/EvaluationPapers4ChatGPT).
