@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Jifan Yu"
 title_separator          : "-"
 name                     : &name "Jifan Yu"
-description              : &description "MAIC Team Leader @ Tsinghua University"
+description              : &description "Assistant Professor, School of Education, Tsinghua University | THU-MAIC Team Leader"
 url                      : https://yujifan0326.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "yujifan0326/yujifan0326.github.io"
@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Jifan Yu (于济凡)"
   avatar           : "profile.jpg"
-  bio              : "MAIC Team Leader @ Tsinghua University"
+  bio              : "Assistant Professor, School of Education, Tsinghua University | THU-MAIC Team Leader"
   location         : "Beijing, China"
   employer         :
   pubmed           :
   googlescholar    : "https://scholar.google.com/citations?user=6cS9CVEAAAAJ"
-  email            : "yujifan0326@163.com"
+  email            : "yujifan@tsinghua.edu.cn"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :

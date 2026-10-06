@@ -1,0 +1,20 @@
+{% assign recent_papers = site.data.recent_publications | where: "year", include.year %}
+{% for paper in recent_papers %}
+<table style="border: none!important;">
+  <tbody><tr><td valign="middle">
+    <div>
+      <b>{{ paper.title | escape }}</b><br>
+      <i>{{ paper.venue | escape }}</i><br>
+      {% for author in paper.authors %}{% if author == "Jifan Yu" or author == "于济凡" %}<b>{{ author | escape }}</b>{% else %}{{ author | escape }}{% endif %}{% unless forloop.last %}, {% endunless %}{% endfor %}
+      {% if paper.contribution %}<br>{{ paper.contribution | escape }}{% endif %}
+      {% if paper.paper_url or paper.pdf_url or paper.preprint_url or paper.code_url %}<br>
+      {% if paper.paper_url %}[<a href="{{ paper.paper_url | escape }}">{% if paper.paper_url contains "arxiv.org" %}arXiv{% else %}Paper{% endif %}</a>]{% endif %}
+      {% if paper.pdf_url %}[<a href="{{ paper.pdf_url | escape }}">PDF</a>]{% endif %}
+      {% if paper.preprint_url %}[<a href="{{ paper.preprint_url | escape }}">arXiv</a>]{% endif %}
+      {% if paper.code_url %}[<a href="{{ paper.code_url | escape }}">Code</a>]{% endif %}
+      {% endif %}
+      {% if paper.summary %}<br>{{ paper.summary | escape }}{% endif %}
+    </div>
+  </td></tr></tbody>
+</table>
+{% endfor %}

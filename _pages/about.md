@@ -8,8 +8,11 @@ redirect_from:
   - /about.html
 ---
 
-I am a Researcher at the [School of Education](https://www.ioe.tsinghua.edu.cn/) at Tsinghua University. I got my Ph.D degree at the [Knowledge Engineering Group (KEG)](https://keg.cs.tsinghua.edu.cn/), Department of Computer Science and Technology, Tsinghua University, supervised by [Prof. Juanzi Li](http://keg.cs.tsinghua.edu.cn/persons/ljz/) and [Prof. Jie Tang](https://keg.cs.tsinghua.edu.cn/jietang/).
-My research interests focus on Knowledge-driven AI in Education, especially Educational Large Models and Agents. I am leading the [THU-MAIC Team](https://project.maic.chat/) and continuously looking for self-motivated, high-caliber collaborators, research assistants, and candidate master's students. For more details, you can check my [Chinese CV](https://cloud.tsinghua.edu.cn/f/bdee8fb9700f45f38cec/) or [English CV](https://cloud.tsinghua.edu.cn/f/dfa1b015c70e4b6ea0d5/).
+I am an Assistant Professor at the [School of Education](https://www.ioe.tsinghua.edu.cn/), Tsinghua University, where I lead the [THU-MAIC Team](https://project.maic.chat/). I received my Ph.D. in Computer Science and Technology from Tsinghua University in January 2024, supervised by [Prof. Juanzi Li](http://keg.cs.tsinghua.edu.cn/persons/ljz/) and [Prof. Jie Tang](https://keg.cs.tsinghua.edu.cn/jietang/), and my bachelor's degree in Software Engineering from Beihang University in 2018. I was previously a Shuimu Scholar at Tsinghua University.
+
+My research focuses on generative AI for education and the design of new learning environments. I develop knowledge-guided educational language models, safe and controllable pedagogical agents, multi-agent learning environments, and personalized learning algorithms. I also explore AI-assisted educational research, including learner modeling, learning behavior simulation, and automated collection, analysis, and assessment of educational data.
+
+I am looking for self-motivated collaborators, research assistants, and prospective master's students interested in AI for education. For more details, see my [Chinese CV](https://cloud.tsinghua.edu.cn/f/bdee8fb9700f45f38cec/) or [English CV](https://cloud.tsinghua.edu.cn/f/dfa1b015c70e4b6ea0d5/).
 
 Some of our publicly available resources for AI-Edu can be found here: 
 * [OpenMAIC](https://github.com/THU-MAIC/OpenMAIC).
@@ -17,30 +20,65 @@ Some of our publicly available resources for AI-Edu can be found here:
 * [AI-driven MOOC](https://github.com/THU-KEG/Awesome_MOOCs).
 * [LLM Evaluation](https://github.com/THU-KEG/EvaluationPapers4ChatGPT).
 
-What's New ?
+What's New?
 =====
-* Our [OpenMAIC](https://github.com/THU-MAIC/OpenMAIC) achieved 11k Github Stars in five days!
-* We have two papers accepted by ACL 2024, Congrats to Shangqing and Xiaokang!
+* **2026:** I was invited to give a talk at **UNESCO Headquarters**.
+* **2026:** [OpenMAIC](https://github.com/THU-MAIC/OpenMAIC) was selected as a **CCF Outstanding Public Welfare Case (CCF 公益优秀案例)**, one of only **10 cases nationwide**.
+* **2026:** [OpenMAIC](https://github.com/THU-MAIC/OpenMAIC) reached **No. 1 on GitHub Trending multiple times**.
+* **2026:** Our [MAIC-UI](https://arxiv.org/abs/2604.25806) paper has been accepted to **UIST 2026**.
+* **2026:** [From MOOC to MAIC](https://doi.org/10.1007/s11390-025-6000-0) was published in **Journal of Computer Science and Technology (JCST)**.
 
-Invited Talk & Award
+Selected Projects
 =====
-* Our Work on Massive Open Online Course won <font color=red><i><b>The Prize of First Class for the Wu Wenjun Science and Technology Award (吴文俊人工智能科技进步一等奖), </b></i></font> by the Chinese Association for Artificial Intelligence, in 2026.
-* MAIC is awarded as Outstanding Educational Case Studies on AI Safety and AI for Good by the Ministry of Education, China.
-* Our Paper of [Open IE](https://aclanthology.org/2023.emnlp-main.360/) won <font color=red><i><b>EMNLP Outstanding Paper</b></i></font>.
-* [VisKop](https://aclanthology.org/2023.acl-demo.17/) won <font color=red><i><b>ACL2023 Best Demo Paper Award</b></i></font>.
-* [MOOCCubeX](https://github.com/THU-KEG/MOOCCubeX) won <font color=red><i><b>CIKM2021 Best Resource Paper Nomination</b></i></font>.
-* The Knowledgeable Intelligence in MOOCs. (AI Time 2020) [Sildes](https://cloud.tsinghua.edu.cn/f/6d97a85ca980409cab2f/)
+* **[MAIC / OpenMAIC](https://github.com/THU-MAIC/OpenMAIC):** LLM-driven multi-agent learning environments for interactive online teaching and personalized learning. MAIC has been used on China's National Smart Education Platform and in Tsinghua University's AI-powered education initiatives. In 2026, OpenMAIC was selected as one of 10 CCF Outstanding Public Welfare Cases nationwide and reached No. 1 on GitHub Trending multiple times.
+* **[MAIC-UI](https://github.com/THU-MAIC/MAIC-UI):** A system for creating and editing interactive courseware with generative UI. The paper has been accepted to **UIST 2026**.
+* **[MOOCCubeX](https://github.com/THU-KEG/MOOCCubeX):** A large-scale, knowledge-centered educational repository supporting adaptive learning in MOOCs.
+* **清小搭:** An AI-powered application used in Tsinghua University's education initiatives, featured in the university's Top 10 News Stories of 2024.
+
+Selected Research Grants
+=====
+* **Principal Investigator**, National Natural Science Foundation of China Young Scientists Fund, 2025–2027: Knowledge- and LLM-integrated intelligent guidance for online education (融合知识与大模型的在线教育智能导学关键技术研究).
+* **Principal Investigator**, CIPS-SMP Interdisciplinary Large Model Fund, 2025–2026: Explainable student cognitive diagnosis with LLM workflows (基于大模型工作流的可解释学生认知诊断关键技术研究).
+* **Subproject Lead**, Tsinghua University Guoqiang Institute, 2024–2026: A virtual campus system powered by LLM-based multi-agent technology (基于大模型多智能体的清华大学虚拟校园系统).
+
+Selected Awards & Recognition
+=====
+* **2026:** OpenMAIC received the CCF Outstanding Public Welfare Case recognition (CCF 公益优秀案例), one of only 10 selected cases nationwide.
+* **2026:** Outstanding Case on AI Safety and AI for Good (人工智能安全向善优秀案例), Ministry of Education and Cyberspace Administration of China.
+* **2025:** First Prize, Wu Wenjun AI Science and Technology Progress Award (吴文俊人工智能科技进步一等奖), for our work on massive open online courses.
+* **2025:** Exhibition demonstration project at the World Digital Education Conference, “全AI守护课堂”.
+* **2024:** Selected for the Ministry of Education's first batch of “AI + Higher Education” typical applications, one of 18 selected projects nationwide.
+* **2024:** Tsinghua University's Top 10 News Stories, “清小搭”; Tsinghua Shuimu Scholar.
+* **2023:** [EMNLP Outstanding Paper Award](https://aclanthology.org/2023.emnlp-main.360/).
+* **2023:** [ACL Best Demo Paper Award](https://aclanthology.org/2023.acl-demo.17/) for VisKoP.
+* **2021:** [CIKM Best Resource Paper Nomination](https://github.com/THU-KEG/MOOCCubeX) for MOOCCubeX.
+
+Selected Invited Talks
+=====
+* **2026:** Invited talk at UNESCO Headquarters.
+* **2025:** “当MCP赋能‘MCP’：多智能体数智学习模式”, China National Computer Congress (CNCC), Harbin, China.
+* **2025:** “Reshaping Online Learning via Emergence of LLM-driven Multiple Agents”, AICET Workshop, Singapore.
+* **2024:** “面向认知的大模型自主智能体技术及其教育应用”, World Artificial Intelligence Conference (WAIC), Shanghai, China.
+* **2020:** “The Knowledgeable Intelligence in MOOCs”, AI Time. [Slides](https://cloud.tsinghua.edu.cn/f/6d97a85ca980409cab2f/)
 
 Selected Publications
 ======
+For the full publication list, see my [Google Scholar profile](https://scholar.google.com/citations?user=6cS9CVEAAAAJ&hl=en). Preprints are explicitly labelled below.
 <style>
 td, th {
    border: none!important;
 }
 </style>
 
-2024
+2026
 -----
+
+{% include recent-publications.html year=2026 %}
+
+2025
+-----
+
+{% include recent-publications.html year=2025 %}
 
 
 <table style="border: none!important;">
@@ -67,6 +105,11 @@ td, th {
     </div>
   </td></tr></tbody>
 </table>
+
+2024
+-----
+
+{% include recent-publications.html year=2024 %}
 
 <table style="border: none!important;">
   <tbody><tr><td style="width:230px; height:110px" valign="middle" align="middle">

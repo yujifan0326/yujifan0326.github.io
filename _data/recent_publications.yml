@@ -1,0 +1,287 @@
+# Recent additions; bibliographic metadata checked on 2026-10-06.
+# Existing homepage entries remain in _pages/about.md.
+- title: "MAIC-UI: Making Interactive Courseware with Generative UI"
+  authors: ["Shangqing Tu", "Yanjia Li", "Keyu Chen", "Sichen Zhang", "Jifan Yu", "Daniel Zhang-Li", "Lei Hou", "Juanzi Li", "Yu Zhang", "Huiqin Liu"]
+  venue: "UIST 2026 (Accepted)"
+  year: 2026
+  pdf_url: "https://arxiv.org/pdf/2604.25806"
+  source: "https://arxiv.org/abs/2604.25806"
+  paper_url: "https://arxiv.org/abs/2604.25806"
+  code_url: "https://github.com/THU-MAIC/MAIC-UI"
+  status: "accepted"
+  status_source: "Author confirmation, 2026-10-06"
+  summary: "A system for generating and incrementally editing interactive courseware from textbooks, slides, and PDFs."
+
+- title: "From MOOC to MAIC: Reimagine Online Teaching and Learning Through LLM-Driven Agents"
+  authors: ["Jifan Yu", "Daniel Zhang-Li", "Zheyuan Zhang", "Yucheng Wang", "Haoxuan Li", "Joy Jia Yin Lim", "Zhanxin Hao", "Shangqing Tu", "Lu Zhang", "Xusheng Dai", "Jianxiao Jiang", "Shen Yang", "Fei Qin", "Zekun Li", "Binglin Liu", "Xin Cong", "Bin Xu", "Lei Hou", "Manli Li", "Juanzi Li", "Huiqin Liu", "Yu Zhang", "Zhiyuan Liu", "Maosong Sun"]
+  venue: "Journal of Computer Science and Technology (JCST), 41(1): 394–414"
+  year: 2026
+  source: "https://api.crossref.org/works/10.1007/s11390-025-6000-0"
+  code_url: "https://github.com/THU-MAIC/OpenMAIC"
+  summary: "A multi-agent approach to interactive online teaching and learning, extending the MOOC model with LLM-driven educational agents."
+  paper_url: "https://doi.org/10.1007/s11390-025-6000-0"
+
+- title: "SimPBL: A Multi-Agent Framework for Project-Based Learning"
+  authors: ["Daniel Zhang-Li", "Joy Jia Yin Lim", "Binglin Liu", "Shangqing Tu", "Zijun Yao", "Hao Peng", "Jifan Yu", "Haoxuan Li", "Zhanxin Hao", "Ye He", "Zekun Li", "Jiangyi Wang", "Lei Hou", "Bin Xu", "Xin Cong", "Zhiyuan Liu", "Huiqin Liu", "Yu Zhang", "Juanzi Li"]
+  venue: "ACL 2026"
+  year: 2026
+  pdf_url: "https://aclanthology.org/2026.acl-long.1512.pdf"
+  source: "https://aclanthology.org/2026.acl-long.1512/"
+  paper_url: "https://aclanthology.org/2026.acl-long.1512/"
+
+- title: "From Knowing to Teaching: Scaffolding Pedagogical Decisions for LLM Agent"
+  authors: ["Yucheng Wang", "Shen Yang", "Jifan Yu", "Haoxuan Li", "Joy Jia Yin Lim", "Daniel Zhang-Li", "Huiqin Liu", "Lei Hou", "Juanzi Li", "Bin Xu"]
+  venue: "ACL 2026"
+  year: 2026
+  pdf_url: "https://aclanthology.org/2026.acl-long.1328.pdf"
+  source: "https://aclanthology.org/2026.acl-long.1328/"
+  paper_url: "https://aclanthology.org/2026.acl-long.1328/"
+
+- title: "Beyond Self-Report: Bridging the Intention-Behavior Gap in Critical Thinking Assessment via Interpretable Multi-Agent System"
+  authors: ["Zekun Li", "Jifan Yu", "Haoxuan Li", "Ye He", "Daniel Zhang-Li", "Shangqing Tu", "Joy Jia Yin Lim", "Yikun Jiang", "Jiaxin Yuan", "Yu Zhang"]
+  venue: "ACL 2026"
+  year: 2026
+  pdf_url: "https://aclanthology.org/2026.acl-long.1236.pdf"
+  source: "https://aclanthology.org/2026.acl-long.1236/"
+  paper_url: "https://aclanthology.org/2026.acl-long.1236/"
+
+- title: "Personalized Learning Path Planning through Goal-Driven Learner State Modeling"
+  authors: ["Joy Jia Yin Lim", "Ye He", "Jifan Yu", "Xin Cong", "Daniel Zhang-Li", "Zhiyuan Liu", "Huiqin Liu", "Lei Hou", "Juanzi Li", "Bin Xu"]
+  venue: "The Web Conference (WWW) 2026"
+  year: 2026
+  source: "https://api.crossref.org/works/10.1145/3774904.3792245"
+  paper_url: "https://doi.org/10.1145/3774904.3792245"
+
+- title: "Decoding Student Dialogue: A Multi-Dimensional Comparison and Bias Analysis of Large Language Models as Annotation Tools"
+  authors: ["Jie Cao", "Zhanxin Hao", "Jifan Yu"]
+  venue: "AIED 2026"
+  year: 2026
+  pdf_url: "https://arxiv.org/pdf/2604.04370"
+  source: "https://arxiv.org/abs/2604.04370"
+  paper_url: "https://arxiv.org/abs/2604.04370"
+
+- title: "Which type of students can LLMs act? Investigating authentic simulation with graph-based Human–AI collaborative system"
+  authors: ["Haoxuan Li", "Jifan Yu", "Xin Cong", "Yang Dang", "Daniel Zhang-Li", "Lu Mi", "Yisi Zhan", "Huiqin Liu", "Zhiyuan Liu"]
+  venue: "AI Open, 7: 142–151"
+  year: 2026
+  source: "https://api.crossref.org/works/10.1016/j.aiopen.2026.05.001"
+  paper_url: "https://doi.org/10.1016/j.aiopen.2026.05.001"
+
+- title: "Mapping student-AI interaction dynamics in multi-agent learning environments: Supporting personalized learning and reducing performance gaps"
+  authors: ["Zhanxin Hao", "Jie Cao", "Ruimiao Li", "Jifan Yu", "Zhiyuan Liu", "Yu Zhang"]
+  venue: "Computers & Education, 239: 105472"
+  year: 2026
+  source: "https://api.crossref.org/works/10.1016/j.compedu.2025.105472"
+  preprint_url: "https://arxiv.org/abs/2506.02993"
+  summary: "An analysis of student–AI interaction patterns in a multi-agent course and their relationships with learning gains and prior knowledge."
+  paper_url: "https://doi.org/10.1016/j.compedu.2025.105472"
+
+- title: "Unpacking interaction profiles and strategies in human-AI collaborative problem solving: a cognitive distribution and regulation perspective"
+  authors: ["Zhanxin Hao", "Xiaobo Liu", "Jiaxin Fan", "Yun Long", "Jifan Yu", "Wenli Chen", "Yu Zhang"]
+  venue: "Journal of Research on Technology in Education"
+  year: 2026
+  source: "https://api.crossref.org/works/10.1080/15391523.2026.2722962"
+  summary: "A study of human–AI collaborative problem solving through the lenses of distributed cognition and regulation of learning."
+  paper_url: "https://doi.org/10.1080/15391523.2026.2722962"
+
+- title: "CogEvol: Towards Efficient and Reliable Learning Environment Generation"
+  authors: ["Shangqing Tu", "Daniel Zhang-Li", "Yucheng Wang", "Shiyu Gan", "Yanpeng Wang", "Huiqiang Rong", "Mofei Chen", "Shen Yang", "Yini Chen", "Yinuo Duan", "Binglin Liu", "Ye He", "Danqi Zheng", "Zhanxin Hao", "Yuxuan Wu", "Mengting Tao", "Yuqiu Liu", "Jifan Yu", "Juanzi Li", "Bin Xu", "Lei Hou", "Huiqin Liu", "Yu Zhang"]
+  venue: "arXiv preprint, 2026"
+  year: 2026
+  pdf_url: "https://arxiv.org/pdf/2608.30968"
+  source: "https://arxiv.org/abs/2608.30968"
+  paper_url: "https://arxiv.org/abs/2608.30968"
+  status: "preprint"
+  code_url: "https://github.com/CogEvol/CogEvol-4B"
+  summary: "Models for generating complete slides and interactive learning pages in a single pass."
+
+- title: "Simulating Classroom Education with LLM-Empowered Agents"
+  authors: ["Zheyuan Zhang", "Daniel Zhang-Li", "Jifan Yu", "Linlu Gong", "Jinchang Zhou", "Zhanxin Hao", "Jianxiao Jiang", "Jie Cao", "Huiqin Liu", "Zhiyuan Liu", "Lei Hou", "Juanzi Li"]
+  venue: "NAACL 2025"
+  year: 2025
+  pdf_url: "https://aclanthology.org/2025.naacl-long.520.pdf"
+  source: "https://aclanthology.org/2025.naacl-long.520/"
+  paper_url: "https://aclanthology.org/2025.naacl-long.520/"
+  contribution: "Corresponding author"
+
+- title: "Awaking the Slides: A Tuning-free and Knowledge-regulated AI Tutoring System via Language Model Coordination"
+  authors: ["Daniel Zhang-Li", "Zheyuan Zhang", "Jifan Yu", "Joy Jia Yin Lim", "Shangqing Tu", "Linlu Gong", "Haohua Wang", "Zhiyuan Liu", "Huiqin Liu", "Lei Hou", "Juanzi Li"]
+  venue: "KDD 2025"
+  year: 2025
+  preprint_url: "https://arxiv.org/abs/2409.07372"
+  contribution: "Corresponding author"
+  source: "https://www.kdd.org/kdd2025/applied-data-science-ads-track-papers-2/"
+  summary: "Slide2Lecture turns existing lecture slides into structured teaching actions and interactive tutoring sessions."
+  paper_url: "https://doi.org/10.1145/3690624.3709423"
+
+- title: "EduCraft: A System for Generating Pedagogical Lecture Scripts from Long-Context Multimodal Presentations"
+  authors: ["Yucheng Wang", "Jifan Yu", "Daniel Zhang-Li", "Joy Jia Yin Lim", "Shangqing Tu", "Haoxuan Li", "Zhiyuan Liu", "Huiqin Liu", "Lei Hou", "Juanzi Li", "Bin Xu"]
+  venue: "CIKM 2025 Demo"
+  year: 2025
+  source: "https://api.crossref.org/works/10.1145/3746252.3761578"
+  contribution: "Co-first author"
+  code_url: "https://github.com/wyuc/EduCraft"
+  pdf_url: "https://keg.cs.tsinghua.edu.cn/persons/xubin/papers/EduCraft.pdf"
+  summary: "A system that converts long, multimodal presentations into pedagogically structured lecture scripts."
+  paper_url: "https://doi.org/10.1145/3746252.3761578"
+
+- title: "VocQuiz: Vocabulary Question Generation for English Language Education"
+  authors: ["Yongqi Li", "Jiajun Wu", "Shangqing Tu", "Jifan Yu", "Huiqin Liu", "Lei Hou", "Juanzi Li"]
+  venue: "CIKM 2025 Demo"
+  year: 2025
+  source: "https://api.crossref.org/works/10.1145/3746252.3761546"
+  contribution: "Corresponding author"
+  paper_url: "https://doi.org/10.1145/3746252.3761546"
+
+- title: "Explainable Few-Shot Knowledge Tracing"
+  authors: ["Haoxuan Li", "Jifan Yu", "Yuanxin Ouyang", "Zhuang Liu", "Wenge Rong", "Huiqin Liu", "Juanzi Li", "Zhang Xiong"]
+  venue: "Frontiers of Digital Education, 2(4): 34"
+  year: 2025
+  source: "https://api.crossref.org/works/10.1007/s44366-025-0071-x"
+  contribution: "Co-first author"
+  pdf_url: "https://journal.hep.com.cn/fde/EN/PDF/10.1007/s44366-025-0071-x"
+  summary: "An LLM-based knowledge-tracing framework for interpreting student mastery from a small number of learning records."
+  paper_url: "https://doi.org/10.1007/s44366-025-0071-x"
+
+- title: "LongWriter-V: Enabling Ultra-Long and High-Fidelity Generation in Vision-Language Models"
+  authors: ["Shangqing Tu", "Yucheng Wang", "Daniel Zhang-Li", "Yushi Bai", "Jifan Yu", "Yuhao Wu", "Lei Hou", "Huiqin Liu", "Zhiyuan Liu", "Bin Xu", "Juanzi Li"]
+  venue: "ACM Multimedia 2025"
+  year: 2025
+  source: "https://api.crossref.org/works/10.1145/3746027.3755221"
+  contribution: "Corresponding author"
+  preprint_url: "https://arxiv.org/abs/2502.14834"
+  code_url: "https://github.com/THU-KEG/LongWriter-V"
+  summary: "Training data and iterative preference optimization for long, faithful outputs from vision-language models."
+  paper_url: "https://doi.org/10.1145/3746027.3755221"
+
+- title: "Knowledge-to-Jailbreak: Investigating Knowledge-driven Jailbreaking Attacks for Large Language Models"
+  authors: ["Shangqing Tu", "Zhuoran Pan", "Wenxuan Wang", "Zhexin Zhang", "Yuliang Sun", "Jifan Yu", "Hongning Wang", "Lei Hou", "Juanzi Li"]
+  venue: "KDD 2025"
+  year: 2025
+  source: "https://api.crossref.org/works/10.1145/3711896.3737014"
+  paper_url: "https://doi.org/10.1145/3711896.3737014"
+  contribution: "Corresponding author"
+
+- title: "SoAy: A Solution-based LLM API-using Methodology for Academic Information Seeking"
+  authors: ["Yuanchun Wang", "Jifan Yu", "Zijun Yao", "Jing Zhang", "Yuyang Xie", "Shangqing Tu", "Yiyang Fu", "Youhe Feng", "Jinkai Zhang", "Jingyao Zhang", "Bowen Huang", "Yuanyao Li", "Huihui Yuan", "Lei Hou", "Juanzi Li", "Jie Tang"]
+  venue: "KDD 2025"
+  year: 2025
+  source: "https://api.crossref.org/works/10.1145/3690624.3709412"
+  paper_url: "https://doi.org/10.1145/3690624.3709412"
+
+- title: "CoT-based Synthesizer: Enhancing LLM Performance through Answer Synthesis"
+  authors: ["Bohan Zhang", "Xiaokang Zhang", "Jing Zhang", "Jifan Yu", "Sijia Luo", "Jie Tang"]
+  venue: "ACL 2025"
+  year: 2025
+  pdf_url: "https://aclanthology.org/2025.acl-long.315.pdf"
+  source: "https://aclanthology.org/2025.acl-long.315/"
+  paper_url: "https://aclanthology.org/2025.acl-long.315/"
+
+- title: "Dynamic Scaling of Unit Tests for Code Reward Modeling"
+  authors: ["Zeyao Ma", "Xiaokang Zhang", "Jing Zhang", "Jifan Yu", "Sijia Luo", "Jie Tang"]
+  venue: "ACL 2025"
+  year: 2025
+  pdf_url: "https://aclanthology.org/2025.acl-long.343.pdf"
+  source: "https://aclanthology.org/2025.acl-long.343/"
+  paper_url: "https://aclanthology.org/2025.acl-long.343/"
+
+- title: "TableLLM: Enabling Tabular Data Manipulation by LLMs in Real Office Usage Scenarios"
+  authors: ["Xiaokang Zhang", "Sijia Luo", "Bohan Zhang", "Zeyao Ma", "Jing Zhang", "Yang Li", "Guanlin Li", "Zijun Yao", "Kangli Xu", "Jinchang Zhou", "Daniel Zhang-Li", "Jifan Yu", "Shu Zhao", "Juanzi Li", "Jie Tang"]
+  venue: "Findings of ACL 2025"
+  year: 2025
+  pdf_url: "https://aclanthology.org/2025.findings-acl.538.pdf"
+  source: "https://aclanthology.org/2025.findings-acl.538/"
+  paper_url: "https://aclanthology.org/2025.findings-acl.538/"
+
+- title: "基于生成式人工智能新特征的研究生教育融合创新探析"
+  authors: ["于济凡", "刘惠琴"]
+  venue: "学位与研究生教育, 2025年第9期"
+  year: 2025
+  source: "Author-provided Chinese CV, page 2"
+
+- title: "Addressing Situated Teaching Needs: A Multi-Agent Framework for Automated Slide Adaptation"
+  authors: ["Binglin Liu", "Yucheng Wang", "Zheyuan Zhang", "Jiyuan Lu", "Shen Yang", "Daniel Zhang-Li", "Huiqin Liu", "Jifan Yu"]
+  venue: "arXiv preprint, 2025"
+  year: 2025
+  pdf_url: "https://arxiv.org/pdf/2511.18840"
+  source: "https://arxiv.org/abs/2511.18840"
+  paper_url: "https://arxiv.org/abs/2511.18840"
+  status: "preprint"
+
+- title: "Handling Students Dropouts in an LLM-driven Interactive Online Course Using Language Models"
+  authors: ["Yuanchun Wang", "Yiyang Fu", "Jifan Yu", "Daniel Zhang-Li", "Zheyuan Zhang", "Joy Lim Jia Yin", "Yucheng Wang", "Peng Zhou", "Jing Zhang", "Huiqin Liu"]
+  venue: "arXiv preprint, 2025"
+  year: 2025
+  pdf_url: "https://arxiv.org/pdf/2508.17310"
+  source: "https://arxiv.org/abs/2508.17310"
+  paper_url: "https://arxiv.org/abs/2508.17310"
+  status: "preprint"
+
+- title: "Learning in Context: Personalizing Educational Content with Large Language Models to Enhance Student Learning"
+  authors: ["Joy Jia Yin Lim", "Daniel Zhang-Li", "Jifan Yu", "Xin Cong", "Ye He", "Zhiyuan Liu", "Huiqin Liu", "Lei Hou", "Juanzi Li", "Bin Xu"]
+  venue: "arXiv preprint, 2025"
+  year: 2025
+  pdf_url: "https://arxiv.org/pdf/2509.15068"
+  source: "https://arxiv.org/abs/2509.15068"
+  paper_url: "https://arxiv.org/abs/2509.15068"
+  status: "preprint"
+
+- title: "CharacterGLM: Customizing Social Characters with Large Language Models"
+  authors: ["Jinfeng Zhou", "Zhuang Chen", "Dazhen Wan", "Bosi Wen", "Yi Song", "Jifan Yu", "Yongkang Huang", "Pei Ke", "Guanqun Bi", "Libiao Peng", "JiaMing Yang", "Xiyao Xiao", "Sahand Sabour", "Xiaohan Zhang", "Wenjing Hou", "Yijia Zhang", "Yuxiao Dong", "Hongning Wang", "Jie Tang", "Minlie Huang"]
+  venue: "EMNLP 2024 Industry"
+  year: 2024
+  pdf_url: "https://aclanthology.org/2024.emnlp-industry.107.pdf"
+  source: "https://aclanthology.org/2024.emnlp-industry.107/"
+  paper_url: "https://aclanthology.org/2024.emnlp-industry.107/"
+
+- title: "Evaluating Generative Language Models in Information Extraction as Subjective Question Correction"
+  authors: ["Yuchen Fan", "Yantao Liu", "Zijun Yao", "Jifan Yu", "Lei Hou", "Juanzi Li"]
+  venue: "LREC-COLING 2024"
+  year: 2024
+  pdf_url: "https://aclanthology.org/2024.lrec-main.567.pdf"
+  source: "https://aclanthology.org/2024.lrec-main.567/"
+  paper_url: "https://aclanthology.org/2024.lrec-main.567/"
+
+- title: "Exploring sequence-to-sequence taxonomy expansion via language model probing"
+  authors: ["Kai Sun", "Jifan Yu", "Juanzi Li", "Lei Hou"]
+  venue: "Expert Systems with Applications, 239: 122321"
+  year: 2024
+  source: "https://api.crossref.org/works/10.1016/j.eswa.2023.122321"
+  paper_url: "https://doi.org/10.1016/j.eswa.2023.122321"
+
+- title: "OAG-Bench: A Human-Curated Benchmark for Academic Graph Mining"
+  authors: ["Fanjin Zhang", "Shijie Shi", "Yifan Zhu", "Bo Chen", "Yukuo Cen", "Jifan Yu", "Yelin Chen", "Lulu Wang", "Qingfei Zhao", "Yuqing Cheng", "Tianyi Han", "Yuwei An", "Dan Zhang", "Weng Lam Tam", "Kun Cao", "Yunhe Pang", "Xinyu Guan", "Huihui Yuan", "Jian Song", "Xiaoyan Li", "Yuxiao Dong", "Jie Tang"]
+  venue: "KDD 2024"
+  year: 2024
+  source: "https://arxiv.org/abs/2402.15810"
+  paper_url: "https://arxiv.org/abs/2402.15810"
+
+- title: "SpreadsheetBench: Towards Challenging Real World Spreadsheet Manipulation"
+  authors: ["Zeyao Ma", "Bohan Zhang", "Jing Zhang", "Jifan Yu", "Xiaokang Zhang", "Xiaohan Zhang", "Sijia Luo", "Xi Wang", "Jie Tang"]
+  venue: "NeurIPS 2024 Datasets and Benchmarks"
+  year: 2024
+  preprint_url: "https://arxiv.org/abs/2406.14991"
+  source: "https://papers.nips.cc/paper_files/paper/2024/hash/ac840df270ac537dd74530a15c332684-Abstract-Datasets_and_Benchmarks_Track.html"
+  paper_url: "https://papers.nips.cc/paper_files/paper/2024/hash/ac840df270ac537dd74530a15c332684-Abstract-Datasets_and_Benchmarks_Track.html"
+
+- title: "Untangle the KNOT: Interweaving Conflicting Knowledge and Reasoning Skills in Large Language Models"
+  authors: ["Yantao Liu", "Zijun Yao", "Xin Lv", "Yuchen Fan", "Shulin Cao", "Jifan Yu", "Lei Hou", "Juanzi Li"]
+  venue: "LREC-COLING 2024"
+  year: 2024
+  pdf_url: "https://aclanthology.org/2024.lrec-main.1493.pdf"
+  source: "https://aclanthology.org/2024.lrec-main.1493/"
+  paper_url: "https://aclanthology.org/2024.lrec-main.1493/"
+
+- title: "WaterBench: Towards Holistic Evaluation of Watermarks for Large Language Models"
+  authors: ["Shangqing Tu", "Yuliang Sun", "Yushi Bai", "Jifan Yu", "Lei Hou", "Juanzi Li"]
+  venue: "ACL 2024"
+  year: 2024
+  pdf_url: "https://aclanthology.org/2024.acl-long.83.pdf"
+  source: "https://aclanthology.org/2024.acl-long.83/"
+  paper_url: "https://aclanthology.org/2024.acl-long.83/"
+
+- title: "多智能体协同交互的高临场感在线学习环境构建"
+  authors: ["于济凡", "李睿淼", "李曼丽", "刘惠琴"]
+  venue: "现代教育技术, 2024年第12期"
+  year: 2024
+  source: "Author-provided Chinese CV, page 2"

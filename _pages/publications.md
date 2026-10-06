@@ -5,9 +5,27 @@ permalink: /publications/
 author_profile: true
 ---
 
-{% if author.googlescholar %}
-  You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
-{% endif %}
+For the full publication list, see my [Google Scholar profile](https://scholar.google.com/citations?user=6cS9CVEAAAAJ&hl=en). Preprints are explicitly labelled below.
+
+2026
+-----
+
+{% include recent-publications.html year=2026 %}
+
+2025
+-----
+
+{% include recent-publications.html year=2025 %}
+
+2024
+-----
+
+{% include recent-publications.html year=2024 %}
+
+Earlier Selected Publications
+-----
+
+See the [homepage](/#selected-publications) for additional selected publications, including work published before 2024.
 
 {% include base_path %}
 
